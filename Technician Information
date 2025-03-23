@@ -1,0 +1,21 @@
+Technician/Vehicle Mapping:
+| GPS Device Name | ServiceDesk Code | Role | Home Address | Experience
+|-----------------|------------------|------|
+| "James" | "JS" | Technician | 125 airport blvd e, santa rosa, ca, 95403 | 8 years.
+| "Joe" | "JD" | Technician | 3543 Coffee Meadow, santa rosa, ca, 95403 | 3 years
+| "Bianca" | "BB" | Technician | 400 Santa Alicia, Rohnert Park, CA, 94928 | 7 years
+| "Ricardo (New)" | "RR" | Technician | 92 Ronda St, Rohnert Park, Ca, 94928 | 5 years
+| "Shane" | "SS" | Tech Service Manager, Technician (You) | 366 Brockhurst Dr. Santa Rosa, Ca, 95401 | 9 years
+| "Porter" | "AP" | Helper, shop-hand, does some service work | 1001 warren dr. petaluma, ca, 94952 | 1 year
+| "Dane" | "DM" | Field Service Manager, Technician | 286 Bruce Ave, rohnert park, ca, 94928 | 12 years
+| "Sean" | "SF" | Technician | 1348 Graymill ct, rohnert park, ca, 94928 | 2 years
+Office Staff (No GPS Tracking):
+| Name | ServiceDesk Code | Role | 
+|------|------------------|------|
+| "Mark" | "MK" | Owner | | 35 years
+| "Abby" | "AJ" | CSR | | 6 years
+| "Kendra" | "KH" | CSR | | 8 years
+| "Laura" | "LL" | CSR | | 2 years
+| "XX" | "XX" | Online scheduling | 
+| 
+| Shop Address: 466 Primero Ct. Cotati, Ca, 94931.

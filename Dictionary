@@ -1,0 +1,41 @@
+From Type6reports:
+InvNmbr: Critical for matching across systems
+Status: To identify completed vs. canceled jobs
+TechCode: For technician identification/mapping
+OriginDate: When job was created
+FirstAppmnt: Initial scheduled date
+CmpltnDate: When job was completed
+DysOrgnToCmpltn: Days to completion
+HowManyVisits: For FTC determination
+CompletedOnFirstTrip: Direct FTC indicator
+JobCanceled: To exclude from metrics
+TotalMaterialInSale: For parts revenue
+TotalLaborInSale: For labor revenue
+TimeOnJob: Even if unreliable, for comparison
+WorkDescription: For text mining job details
+Make/Model: For appliance categorization
+Type: Appliance type for categorization
+PayingParty: For warranty vs. customer-pay distinction
+From Sales Journal:
+DateRecorded: For timing analysis
+Technician: For matching with TechCode
+InvoiceNumber: For matching with InvNmbr
+MerchandiseSold: For product sales
+PartsSold: For parts revenue
+SCallSold: For service call revenue
+LaborSold: For labor revenue
+TotalSale: For overall revenue metrics
+PayCode: To identify pricing tiers (129/149/etc.)
+Department: For categorization
+From GPS data:
+Device: To match with technician
+StartTime/EndTime: For time tracking
+Address: For job location matching
+Duration: For time spent analysis
+Status: Driving vs. Stopped
+Lat/Lng: For precise location matching
+Additional Context Data:
+Technician Experience: As you mentioned adding
+Technician Home Addresses: For distinguishing from job sites
+Shop Address: For distinguishing from job sites
+Service Zone Definitions: For validating pricing

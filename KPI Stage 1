@@ -1,0 +1,41 @@
+Core KPI Metrics Identified
+Revenue Metrics: Total Revenue, Service Calls, Labor, Avg $ per call
+Profitability Metrics: Total Profit, Avg Profit per call
+Performance Indicators: Completed Calls, FTC %, Diagnostic ONLY %, RECALL %
+Business Goals: >70% First Time Complete, >10-20% Diagnostics Only, ~5% Recalls
+Data Integration Strategy
+Cross-Reference Methodology:
+Match invoice numbers between Sales Journal and Type6reports
+Link technician codes to GPS device names using your provided mapping
+Correlate job timestamps with GPS location data for validation
+Text Analysis for Classification:
+Extract job categories and outcomes from WorkDescription field
+Identify keywords that indicate diagnostics-only, recalls, and quick fixes
+Create pattern recognition for completed vs. multi-visit jobs
+Financial Calculation Framework:
+Calculate revenue using SCallSold, LaborSold fields from Sales Journal
+Track service call zone pricing ($129/$149/$60 additional appliance)
+Derive profitability metrics using standard margin assumptions
+Job Classification Logic
+Diagnostic ONLY: Jobs with no parts used or specifically noted in WorkDescription
+FTC (First Time Complete): Where CompletedOnFirstTrip = "Yes" or HowManyVisits = 1
+RECALLS: Jobs with recall keywords in WorkDescription or Make/Model fields
+Data Processing Requirements
+Data Cleaning Steps:
+Standardize technician codes across systems
+Handle inconsistent date formats between reports
+Manage missing data in critical fields
+Derived Metrics Calculations:
+Revenue per job type
+Time efficiency (if incorporating GPS data)
+Performance against business goals
+Aggregation Methods:
+By technician
+By time period (monthly reporting)
+By job category and appliance type
+Visualization Approach
+HTML-based visual dashboard showing all KPIs
+Progress bars/indicators for goals (FTC %, Diagnostic %, Recall %)
+Sortable technician comparison table
+Month-to-month trend analysis
+This framework provides the blueprint for creating your KPI system, incorporating the data sources you have available while establishing a foundation that can be enhanced with GPS data for deeper insights.

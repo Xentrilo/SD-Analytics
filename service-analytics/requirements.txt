@@ -1,0 +1,23 @@
+# Data processing
+pandas==2.2.3
+numpy==2.2.4
+
+# Text analysis
+nltk==3.9.1
+python-Levenshtein==0.27.1
+fuzzywuzzy==0.18.0
+
+# Geospatial analysis
+geopy==2.4.1
+folium==0.19.5
+
+# Visualization
+streamlit==1.43.2
+plotly==6.0.1
+matplotlib==3.10.1
+seaborn==0.13.2
+
+# Utilities
+python-dateutil==2.9.0
+openpyxl==3.1.5
+scikit-learn==1.6.1

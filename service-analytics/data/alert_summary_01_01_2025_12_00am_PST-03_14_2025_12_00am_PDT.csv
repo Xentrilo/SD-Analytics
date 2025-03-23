@@ -1,0 +1,569 @@
+﻿Device,Time,Alert,Lat/Lng,Address,Driver(s),Speed (mph)
+Bianca,01/02/2025 03:42:53 PM,Harsh Braking,"38.282431°, -122.664868°","83 Ely Rd, Petaluma, CA 94954, USA",N/A,0.0
+Bianca,01/13/2025 01:14:26 PM,Harsh Cornering,"38.432040°, -122.716088°","CA 12, Santa Rosa, CA 95407, USA",N/A,35.6
+Bianca,01/16/2025 01:46:17 PM,Harsh Cornering,"38.163087°, -122.680584°","6433 Point Reyes Petaluma Rd, Petaluma, CA 94952, USA",N/A,29.3
+Bianca,01/17/2025 01:38:15 PM,Harsh Cornering,"38.432492°, -122.716301°","424 Sebastopol Ave, Santa Rosa, CA 95401, USA",N/A,31.2
+Bianca,01/21/2025 09:07:35 AM,Harsh Cornering,"38.362609°, -122.713307°","5080 Redwood Dr, Rohnert Park, CA 94928, USA",N/A,28.6
+Bianca,01/27/2025 12:14:21 PM,Engine Idle,"38.238385°, -122.632753°","511 E D St, Petaluma, CA 94952, USA",N/A,0.0
+Bianca,01/27/2025 02:28:27 PM,Harsh Cornering,"38.247101°, -122.627792°","US 101, Petaluma, CA 94954, USA",N/A,38.1
+Bianca,01/30/2025 09:19:08 AM,Harsh Cornering,"38.431260°, -122.714653°","CA 12, Santa Rosa, CA 95401, USA",N/A,28.7
+Bianca,02/04/2025 12:57:45 PM,Harsh Cornering,"38.546785°, -122.808779°","US-101, Windsor, CA 95492, USA",N/A,25.0
+Bianca,02/06/2025 12:16:39 PM,Speeding Over,"38.375634°, -122.716111°","102 Scenic Ave, Santa Rosa, CA 95407, USA",N/A,81.3
+Bianca,02/12/2025 09:37:16 AM,Harsh Cornering,"38.431278°, -122.714640°","CA 12, Santa Rosa, CA 95401, USA",N/A,29.1
+Bianca,02/14/2025 12:46:08 PM,Harsh Cornering,"38.348270°, -122.712841°","US 101, Rohnert Park, CA 94928, USA",N/A,40.9
+Bianca,02/21/2025 10:26:38 AM,Harsh Cornering,"38.430585°, -122.713719°","CA-12, Santa Rosa, CA 95404, USA",N/A,38.7
+Bianca,02/21/2025 04:27:31 PM,Harsh Cornering,"38.432116°, -122.716166°","CA 12, Santa Rosa, CA 95407, USA",N/A,27.8
+Bianca,02/26/2025 12:28:38 PM,Harsh Cornering,"38.495372°, -122.754781°","US 101, Santa Rosa, CA 95403, USA",N/A,31.7
+Bianca,03/03/2025 02:34:19 PM,Harsh Cornering,"38.431975°, -122.716082°","CA 12, Santa Rosa, CA 95407, USA",N/A,38.4
+Bianca,03/07/2025 02:39:38 PM,Harsh Cornering,"38.432071°, -122.716124°","CA 12, Santa Rosa, CA 95407, USA",N/A,37.1
+Dane,01/02/2025 03:17:44 PM,Harsh Cornering,"38.256820°, -122.492214°","1777 Watmaugh Rd, Sonoma, CA 95476, USA",N/A,39.6
+Dane,01/03/2025 02:03:35 PM,Harsh Cornering,"38.234258°, -122.617120°","1105 Baywood Dr, Petaluma, CA 94954, USA",N/A,32.7
+Dane,01/06/2025 08:07:17 AM,Engine Idle,"38.329579°, -122.704258°","285 Burton Ave, Rohnert Park, CA 94928, USA",N/A,0.0
+Dane,01/06/2025 12:23:00 PM,Engine Idle,"38.262808°, -122.488514°","265 Avenida Barbera, Sonoma, CA 95476, USA",N/A,0.0
+Dane,01/07/2025 07:50:55 AM,After Hours,"38.329528°, -122.704106°","285 Burton Ave, Rohnert Park, CA 94928, USA",N/A,5.4
+Dane,01/07/2025 11:48:01 AM,Harsh Cornering,"38.234655°, -122.618895°","1070 Lakeville Hwy, Petaluma, CA 94952, USA",N/A,39.7
+Dane,01/08/2025 07:52:00 AM,After Hours,"38.329549°, -122.704175°","285 Burton Ave, Rohnert Park, CA 94928, USA",N/A,5.1
+Dane,01/08/2025 11:10:15 AM,Engine Idle,"38.240908°, -122.645232°","608 Kentucky St, Petaluma, CA 94952, USA",N/A,0.0
+Dane,01/09/2025 07:46:44 AM,After Hours,"38.325217°, -122.705095°","8 Charles St, Cotati, CA 94931, USA",N/A,13.7
+Dane,01/09/2025 08:00:23 AM,After Hours,"38.264411°, -122.601162°","2700 Adobe Rd, Petaluma, CA 94954, USA",N/A,47.8
+Dane,01/09/2025 10:05:05 AM,Engine Idle,"38.201474°, -122.447249°","25708 Arnold Dr, Sonoma, CA 95476, USA",N/A,0.0
+Dane,01/09/2025 12:37:26 PM,Engine Idle,"38.287945°, -122.458610°","725 Broadway, Sonoma, CA 95476, USA",N/A,0.0
+Dane,01/09/2025 02:52:05 PM,Harsh Cornering,"38.272463°, -122.670138°","5101 Montero Way, Petaluma, CA 94954, USA",N/A,36.5
+Dane,01/10/2025 07:39:03 AM,After Hours,"38.329536°, -122.704140°","285 Burton Ave, Rohnert Park, CA 94928, USA",N/A,5.0
+Dane,01/10/2025 11:26:39 AM,Engine Idle,"38.231201°, -122.632937°","501 Petaluma Blvd S, Petaluma, CA 94952, USA",N/A,0.0
+Dane,01/14/2025 07:43:09 AM,After Hours,"38.336049°, -122.709051°","205 Alma Ave, Rohnert Park, CA 94928, USA",N/A,37.6
+Dane,01/14/2025 08:15:52 AM,Engine Idle,"38.342722°, -122.715279°","466 Primero Ct, Cotati, CA 94931, USA",N/A,0.0
+Dane,01/15/2025 11:10:21 AM,Engine Idle,"38.231243°, -122.632751°","215 G St, Petaluma, CA 94952, USA",N/A,0.0
+Dane,01/15/2025 11:37:13 AM,Harsh Cornering,"38.247083°, -122.627763°","US 101, Petaluma, CA 94954, USA",N/A,36.0
+Dane,01/16/2025 07:38:53 AM,Engine Idle,"38.329596°, -122.704224°","286 Bruce Ave, Rohnert Park, CA 94928, USA",N/A,0.0
+Dane,01/16/2025 07:53:56 AM,After Hours,"38.329633°, -122.704216°","286 Bruce Ave, Rohnert Park, CA 94928, USA",N/A,3.9
+Dane,01/16/2025 10:49:57 AM,Harsh Braking,"38.371707°, -122.515859°","12990 Dunbar Rd, Glen Ellen, CA 95442, USA",N/A,0.0
+Dane,01/16/2025 10:52:40 AM,Harsh Braking,"38.344761°, -122.498497°","15208 Hwy 12, Glen Ellen, CA 95442, USA",N/A,0.0
+Dane,01/17/2025 07:58:06 AM,After Hours,"38.299996°, -122.667264°","360 Adobe Rd, Penngrove, CA 94951, USA",N/A,5.6
+Dane,01/17/2025 09:03:25 AM,Engine Idle,"38.266239°, -122.633418°","1980 Rainier Cir, Petaluma, CA 94954, USA",N/A,0.0
+Dane,01/21/2025 07:51:48 AM,After Hours,"38.315814°, -122.696164°","9083 Old Redwood Hwy, Cotati, CA 94931, USA",N/A,47.8
+Dane,01/21/2025 10:54:03 AM,Harsh Braking,"38.220557°, -122.607992°","US 101, Petaluma, CA 94952, USA",N/A,0.0
+Dane,01/22/2025 07:51:41 AM,After Hours,"38.315003°, -122.695202°","9176 Old Redwood Hwy, Cotati, CA 94931, USA",N/A,47.7
+Dane,01/22/2025 09:47:00 AM,Engine Idle,"38.270563°, -122.640261°","1862 Lexington St, Petaluma, CA 94954, USA",N/A,0.0
+Dane,01/22/2025 05:53:49 PM,Engine Idle,"38.342666°, -122.715345°","466 Primero Ct, Cotati, CA 94931, USA",N/A,0.0
+Dane,01/22/2025 06:37:20 PM,After Hours,"38.342629°, -122.715337°","466 Primero Ct, Cotati, CA 94931, USA",N/A,5.8
+Dane,01/23/2025 08:02:40 AM,Fast Acceleration,"38.221798°, -122.608405°","US-101, Petaluma, CA 94952, USA",N/A,56.8
+Dane,01/23/2025 08:05:25 AM,Speeding Over,"38.257041°, -122.646822°","715 Southpoint Blvd, Petaluma, CA 94954, USA",N/A,83.8
+Dane,01/23/2025 08:08:15 AM,Speeding Over,"38.290933°, -122.694775°","78R4+93 Penngrove, CA, USA",N/A,81.4
+Dane,01/23/2025 01:05:31 PM,Harsh Cornering,"38.234661°, -122.618880°","1070 Lakeville Hwy, Petaluma, CA 94952, USA",N/A,35.0
+Dane,01/24/2025 07:37:45 AM,Engine Idle,"38.329656°, -122.704196°","286 Bruce Ave, Rohnert Park, CA 94928, USA",N/A,0.0
+Dane,01/24/2025 07:46:04 AM,After Hours,"38.329629°, -122.704239°","286 Bruce Ave, Rohnert Park, CA 94928, USA",N/A,3.8
+Dane,01/24/2025 07:48:36 AM,After Hours,"38.327072°, -122.703456°","183 E Cotati Ave, Cotati, CA 94931, USA",N/A,28.6
+Dane,01/24/2025 07:56:30 AM,After Hours,"38.299640°, -122.673565°","125 Adobe Rd, Penngrove, CA 94951, USA",N/A,9.5
+Dane,01/24/2025 03:22:02 PM,Harsh Cornering,"38.272451°, -122.670195°","5101 Montero Way, Petaluma, CA 94954, USA",N/A,38.8
+Dane,01/28/2025 07:41:56 AM,Engine Idle,"38.329583°, -122.704230°","286 Bruce Ave, Rohnert Park, CA 94928, USA",N/A,0.0
+Dane,01/28/2025 07:50:06 AM,After Hours,"38.326937°, -122.704043°","150 E Cotati Ave, Cotati, CA 94931, USA",N/A,13.1
+Dane,01/29/2025 07:47:55 AM,After Hours,"38.329564°, -122.704170°","285 Burton Ave, Rohnert Park, CA 94928, USA",N/A,4.8
+Dane,01/29/2025 07:58:23 AM,After Hours,"38.300242°, -122.667251°","365 Adobe Rd, Penngrove, CA 94951, USA",N/A,6.3
+Dane,01/29/2025 11:47:15 AM,Harsh Cornering,"38.227317°, -122.618472°","1485 Petaluma Blvd S, Petaluma, CA 94952, USA",N/A,27.1
+Dane,02/04/2025 07:39:17 AM,Harsh Cornering,"38.331158°, -122.711479°","7675 Old Redwood Hwy, Cotati, CA 94931, USA",N/A,20.6
+Dane,02/04/2025 07:39:40 AM,Engine Idle,"38.329577°, -122.704234°","285 Burton Ave, Rohnert Park, CA 94928, USA",N/A,0.0
+Dane,02/04/2025 11:37:15 AM,Engine Idle,"38.228992°, -122.623521°","1065 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+Dane,02/04/2025 12:46:01 PM,Harsh Cornering,"38.272456°, -122.670149°","5101 Montero Way, Petaluma, CA 94954, USA",N/A,35.4
+Dane,02/06/2025 07:34:58 AM,After Hours,"38.332455°, -122.702561°","7595 Adrian Dr, Rohnert Park, CA 94928, USA",N/A,10.4
+Dane,02/06/2025 11:08:08 AM,Engine Idle,"38.285511°, -122.466010°","362 W Macarthur St, Sonoma, CA 95476, USA",N/A,0.0
+Dane,02/06/2025 12:17:01 PM,Engine Idle,"38.284308°, -122.453786°","280 E Macarthur St, Sonoma, CA 95476, USA",N/A,0.0
+Dane,02/06/2025 02:18:06 PM,Harsh Braking,"38.291003°, -122.488340°","19440 Cypress Rd, Sonoma, CA 95476, USA",N/A,18.7
+Dane,02/07/2025 07:39:17 AM,Engine Idle,"38.329631°, -122.704211°","286 Bruce Ave, Rohnert Park, CA 94928, USA",N/A,0.0
+Dane,02/07/2025 07:49:48 AM,After Hours,"38.329623°, -122.704207°","286 Bruce Ave, Rohnert Park, CA 94928, USA",N/A,4.0
+Dane,02/07/2025 08:00:06 AM,After Hours,"38.300522°, -122.666838°","8925 Petaluma Hill Rd, Penngrove, CA 94951, USA",N/A,5.0
+Dane,02/07/2025 09:00:28 AM,Harsh Braking,"38.202930°, -122.781393°","4662 Chileno Valley Rd, Petaluma, CA 94952, USA",N/A,0.0
+Dane,02/07/2025 10:53:08 AM,Engine Idle,"38.202930°, -122.781393°","4662 Chileno Valley Rd, Petaluma, CA 94952, USA",N/A,0.0
+Dane,02/07/2025 11:43:43 AM,Engine Idle,"38.237130°, -122.614967°","912 Wood Ln, Petaluma, CA 94954, USA",N/A,0.0
+Dane,02/10/2025 07:50:36 AM,After Hours,"38.329440°, -122.702071°","319 Burton Ave, Rohnert Park, CA 94928, USA",N/A,27.6
+Dane,02/10/2025 02:07:45 PM,Harsh Braking,"38.307309°, -122.666494°","8475 Petaluma Hill Rd, Penngrove, CA 94951, USA",N/A,6.8
+Dane,02/11/2025 07:42:31 AM,After Hours,"38.329606°, -122.704227°","286 Bruce Ave, Rohnert Park, CA 94928, USA",N/A,4.7
+Dane,02/11/2025 07:52:39 AM,After Hours,"38.300197°, -122.667297°","365 Adobe Rd, Penngrove, CA 94951, USA",N/A,5.0
+Dane,02/12/2025 05:31:45 PM,Harsh Cornering,"38.272352°, -122.670007°","5101 Montero Way, Petaluma, CA 94954, USA",N/A,31.9
+Dane,02/20/2025 01:38:53 PM,Engine Idle,"38.302237°, -122.474882°","19050 Lomita Ave, Sonoma, CA 95476, USA",N/A,0.0
+Dane,02/20/2025 02:54:47 PM,Harsh Cornering,"38.256846°, -122.492224°","1777 Watmaugh Rd, Sonoma, CA 95476, USA",N/A,42.6
+Dane,02/21/2025 07:32:59 AM,Engine Idle,"38.329610°, -122.704234°","286 Bruce Ave, Rohnert Park, CA 94928, USA",N/A,0.0
+Dane,02/24/2025 07:59:53 AM,After Hours,"38.329855°, -122.696888°","8047 Adrian Dr, Rohnert Park, CA 94928, USA",N/A,10.0
+Dane,02/24/2025 08:47:55 AM,Harsh Cornering,"38.347660°, -122.712686°","US 101, Cotati, CA 94931, USA",N/A,18.9
+Dane,02/24/2025 10:41:03 AM,Harsh Braking,"38.219886°, -122.639926°","255 Sunnyslope Rd, Petaluma, CA 94952, USA",N/A,10.8
+Dane,02/24/2025 02:03:29 PM,Engine Idle,"38.286161°, -122.466196°","371 Nicoli Ln, Sonoma, CA 95476, USA",N/A,0.0
+Dane,02/24/2025 02:19:34 PM,Harsh Cornering,"38.256741°, -122.492161°","1777 Watmaugh Rd, Sonoma, CA 95476, USA",N/A,40.1
+Dane,02/25/2025 07:44:51 AM,After Hours,"38.319416°, -122.700527°","8600 Lasker Ln, Cotati, CA 94931, USA",N/A,33.2
+Dane,02/25/2025 02:26:58 PM,Engine Idle,"38.234202°, -122.657965°","825 Bodega Ave, Petaluma, CA 94952, USA",N/A,0.0
+Dane,02/25/2025 02:40:58 PM,Harsh Cornering,"38.272426°, -122.670133°","5101 Montero Way, Petaluma, CA 94954, USA",N/A,39.8
+Dane,02/26/2025 07:43:45 AM,After Hours,"38.329546°, -122.704165°","285 Burton Ave, Rohnert Park, CA 94928, USA",N/A,5.5
+Dane,02/26/2025 07:54:19 AM,After Hours,"38.300085°, -122.667260°","365 Adobe Rd, Penngrove, CA 94951, USA",N/A,9.6
+Dane,02/26/2025 11:04:43 AM,Engine Idle,"38.263022°, -122.647417°","839 Winton Dr, Petaluma, CA 94954, USA",N/A,0.0
+Dane,02/26/2025 12:21:13 PM,Engine Idle,"38.248528°, -122.624055°","301 S McDowell Blvd, Petaluma, CA 94954, USA",N/A,0.0
+Dane,02/27/2025 01:06:27 PM,Engine Idle,"38.312248°, -122.487601°","18070 Riverside Dr, Sonoma, CA 95476, USA",N/A,0.0
+Dane,02/27/2025 01:42:19 PM,Fast Acceleration,"38.233624°, -122.605596°","1264 San Rafael Dr, Petaluma, CA 94954, USA",N/A,42.0
+Dane,02/28/2025 07:46:12 AM,After Hours,"38.327203°, -122.702969°","448 Matteri Cir, Cotati, CA 94931, USA",N/A,26.2
+Dane,02/28/2025 07:53:01 AM,After Hours,"38.300128°, -122.667310°","365 Adobe Rd, Penngrove, CA 94951, USA",N/A,5.3
+Dane,02/28/2025 01:37:53 PM,Engine Idle,"38.269555°, -122.636426°","1900 Belgrave Dr, Petaluma, CA 94954, USA",N/A,0.0
+Dane,03/03/2025 11:47:24 AM,Engine Idle,"38.355321°, -122.524910°","14211 Arnold Dr, Glen Ellen, CA 95442, USA",N/A,0.0
+Dane,03/03/2025 12:14:36 PM,Harsh Cornering,"38.277377°, -122.470485°","20380 5th St W, Sonoma, CA 95476, USA",N/A,23.1
+Dane,03/03/2025 12:54:22 PM,Fast Acceleration,"38.251902°, -122.490705°","4799 Stage Gulch Rd, Sonoma, CA 95476, USA",N/A,47.1
+Dane,03/04/2025 07:44:56 AM,After Hours,"38.329843°, -122.696904°","8047 Adrian Dr, Rohnert Park, CA 94928, USA",N/A,12.4
+Dane,03/04/2025 07:53:48 AM,After Hours,"38.300140°, -122.667258°","365 Adobe Rd, Penngrove, CA 94951, USA",N/A,5.2
+Dane,03/04/2025 10:50:31 AM,Engine Idle,"38.265338°, -122.645687°","836 Stillson Dr, Petaluma, CA 94954, USA",N/A,0.0
+Dane,03/04/2025 01:57:54 PM,Engine Idle,"38.235335°, -122.669769°","1905 Bodega Ave, Petaluma, CA 94952, USA",N/A,0.0
+Dane,03/04/2025 02:42:02 PM,Engine Idle,"38.329573°, -122.704333°","274 Bruce Ave, Rohnert Park, CA 94928, USA",N/A,0.0
+Dane,03/05/2025 07:40:21 AM,After Hours,"38.325226°, -122.705055°","8 Charles St, Cotati, CA 94931, USA",N/A,14.6
+Dane,03/05/2025 11:16:53 AM,Harsh Braking,"38.251492°, -122.563476°","3977 Adobe Rd, Petaluma, CA 94954, USA",N/A,10.8
+Dane,03/05/2025 11:49:04 AM,Engine Idle,"38.250938°, -122.563845°","3977 Adobe Rd, Petaluma, CA 94954, USA",N/A,0.0
+Dane,03/07/2025 07:41:12 AM,After Hours,"38.329506°, -122.704150°","285 Burton Ave, Rohnert Park, CA 94928, USA",N/A,5.0
+Dane,03/07/2025 01:13:21 PM,Engine Idle,"38.251462°, -122.616075°","1533 McGregor Ave, Petaluma, CA 94954, USA",N/A,0.0
+Dane,03/11/2025 07:57:08 AM,After Hours,"38.321200°, -122.702147°","8677 Old Redwood Hwy, Cotati, CA 94931, USA",N/A,25.9
+Dane,03/11/2025 09:30:44 AM,Oil Change is due in 500 mi,"38.328167°, -122.718961°","721 W School St, Cotati, CA 94931, USA",N/A,0.0
+Dane,03/12/2025 07:46:27 AM,After Hours,"38.321415°, -122.702292°","101 Forno Way, Cotati, CA 94931, USA",N/A,8.6
+Dane,03/12/2025 07:56:58 AM,After Hours,"38.321295°, -122.702127°","8677 Old Redwood Hwy, Cotati, CA 94931, USA",N/A,16.9
+Dane,03/12/2025 11:06:38 AM,Engine Idle,"38.231174°, -122.653139°","704 N Webster St, Petaluma, CA 94952, USA",N/A,0.0
+James,01/02/2025 03:27:22 PM,Harsh Braking,"38.452625°, -122.751109°","1833 Guerneville Rd, Santa Rosa, CA 95403, USA",N/A,0.0
+James,01/07/2025 01:01:03 PM,Speeding Over,"38.073232°, -122.540477°","US 101, Novato, CA 94949, USA",N/A,81.2
+James,01/08/2025 11:03:27 AM,Harsh Cornering,"38.065414°, -122.538380°","10 Hector Ln, Novato, CA 94949, USA",N/A,27.5
+James,01/09/2025 07:03:44 AM,Harsh Cornering,"38.511914°, -122.776913°","US-101, Windsor, CA 95492, USA",N/A,18.8
+James,01/09/2025 11:23:38 AM,Harsh Cornering,"37.944688°, -122.516482°","46 Via La Cumbre, Greenbrae, CA 94904, USA",N/A,42.7
+James,01/10/2025 09:10:32 AM,Harsh Cornering,"38.348375°, -122.712883°","US 101, Rohnert Park, CA 94928, USA",N/A,40.4
+James,01/10/2025 09:18:35 AM,Harsh Cornering,"38.470237°, -122.727030°","665 Russell Ave, Santa Rosa, CA 95403, USA",N/A,37.9
+James,01/10/2025 11:49:54 AM,Harsh Braking,"38.457204°, -122.638543°","5850 Melita Rd, Santa Rosa, CA 95409, USA",N/A,0.0
+James,01/13/2025 02:41:09 PM,Harsh Cornering,"38.049004°, -122.530789°","257 Marin Valley Dr, Novato, CA 94949, USA",N/A,24.2
+James,01/16/2025 01:48:32 PM,Harsh Cornering,"38.347489°, -122.712276°","US-101, Cotati, CA 94931, USA",N/A,36.4
+James,01/16/2025 01:48:39 PM,Harsh Cornering,"38.348375°, -122.712844°","US 101, Rohnert Park, CA 94928, USA",N/A,42.9
+James,01/17/2025 08:44:20 AM,Harsh Braking,"38.428978°, -122.715208°","US 101, Santa Rosa, CA 95407, USA",N/A,0.0
+James,01/17/2025 09:22:50 AM,Harsh Cornering,"38.431349°, -122.715579°","CA 12, Santa Rosa, CA 95407, USA",N/A,40.0
+James,01/17/2025 01:23:37 PM,Harsh Cornering,"38.431148°, -122.716156°","CA 12, Santa Rosa, CA 95407, USA",N/A,46.0
+James,01/21/2025 01:17:03 PM,Harsh Cornering,"38.221294°, -122.607109°","US 101, Petaluma, CA 94952, USA",N/A,25.0
+James,01/22/2025 12:44:12 PM,Harsh Cornering,"38.234487°, -122.617216°","1105 Baywood Dr, Petaluma, CA 94954, USA",N/A,34.1
+James,01/22/2025 02:02:55 PM,Harsh Cornering,"38.273220°, -122.670905°","US-101, Petaluma, CA 94952, USA",N/A,36.7
+James,01/23/2025 04:50:30 PM,Harsh Cornering,"38.372087°, -122.713487°","4320 Santa Rosa Ave, Santa Rosa, CA 95407, USA",N/A,27.2
+James,01/24/2025 02:10:50 PM,Harsh Cornering,"38.511225°, -122.772311°","651 Airport Blvd, Santa Rosa, CA 95403, USA",N/A,35.0
+James,01/27/2025 11:13:16 AM,Harsh Cornering,"38.049532°, -122.531239°","5398 Nave Dr, Novato, CA 94949, USA",N/A,21.8
+James,01/27/2025 04:02:19 PM,Harsh Cornering,"38.065248°, -122.536137°","US 101, Novato, CA 94949, USA",N/A,33.8
+James,01/29/2025 10:13:34 AM,Harsh Cornering,"37.926459°, -122.511224°","801 Tamalpais Dr, Corte Madera, CA 94925, USA",N/A,31.7
+James,01/29/2025 02:44:13 PM,Harsh Braking,"38.138308°, -122.564040°","8141 Binford Rd, Novato, CA 94945, USA",N/A,16.6
+James,01/29/2025 04:15:48 PM,Harsh Cornering,"38.431263°, -122.715111°","CA 12, Santa Rosa, CA 95407, USA",N/A,36.4
+James,01/30/2025 11:05:26 AM,Harsh Cornering,"38.234706°, -122.618913°","US-101, Petaluma, CA 94952, USA",N/A,36.7
+James,01/30/2025 12:48:14 PM,Harsh Cornering,"37.901943°, -122.515405°","US 101, Mill Valley, CA 94941, USA",N/A,30.2
+James,01/31/2025 12:39:10 PM,Harsh Cornering,"38.082022°, -122.541347°","CA-37, Novato, CA 94949, USA",N/A,36.2
+James,01/31/2025 12:40:06 PM,Harsh Cornering,"38.083138°, -122.541277°","CA-37, Novato, CA 94949, USA",N/A,42.0
+James,01/31/2025 12:40:46 PM,Harsh Cornering,"38.077415°, -122.547876°","60 Los Padres Cir, Novato, CA 94947, USA",N/A,42.6
+James,01/31/2025 01:27:47 PM,Harsh Cornering,"38.081524°, -122.546643°","5400 Hanna Ranch Rd, Novato, CA 94945, USA",N/A,45.9
+James,01/31/2025 04:20:31 PM,Harsh Braking,"38.370043°, -122.712992°","US 101, Rohnert Park, CA 94928, USA",N/A,0.0
+James,01/31/2025 04:30:38 PM,Harsh Cornering,"38.431308°, -122.715514°","CA 12, Santa Rosa, CA 95407, USA",N/A,36.9
+James,02/03/2025 02:37:10 PM,Harsh Cornering,"38.470818°, -122.728364°","709 Russell Ave, Santa Rosa, CA 95403, USA",N/A,35.5
+James,02/03/2025 02:37:17 PM,Harsh Cornering,"38.470685°, -122.729420°","3145 Cleveland Ave, Santa Rosa, CA 95403, USA",N/A,39.6
+James,02/05/2025 08:27:30 AM,Harsh Cornering,"38.512008°, -122.777020°","US 101, Windsor, CA 95492, USA",N/A,17.5
+James,02/05/2025 08:29:20 AM,Harsh Braking,"38.500229°, -122.761910°","US 101, Santa Rosa, CA 95403, USA",N/A,6.2
+James,02/10/2025 04:10:44 PM,Harsh Cornering,"38.347644°, -122.712629°","US 101, Cotati, CA 94931, USA",N/A,24.9
+James,02/11/2025 09:33:04 AM,Harsh Cornering,"38.431089°, -122.715799°","CA-12, Santa Rosa, CA 95407, USA",N/A,45.3
+James,02/14/2025 04:48:51 PM,Harsh Cornering,"38.164669°, -122.679292°","6285 Point Reyes Petaluma Rd, Petaluma, CA 94952, USA",N/A,29.5
+James,02/14/2025 05:51:55 PM,Harsh Cornering,"38.272829°, -122.668880°","1385 N McDowell Blvd, Petaluma, CA 94954, USA",N/A,37.5
+James,02/14/2025 05:52:06 PM,Harsh Cornering,"38.272352°, -122.670158°","5101 Montero Way, Petaluma, CA 94954, USA",N/A,35.6
+James,02/19/2025 02:05:17 PM,Harsh Cornering,"38.272793°, -122.668849°","1385 N McDowell Blvd, Petaluma, CA 94954, USA",N/A,35.8
+James,02/20/2025 03:03:37 PM,Harsh Cornering,"37.995081°, -122.531466°","US 101, San Rafael, CA 94903, USA",N/A,27.9
+James,02/21/2025 07:58:09 AM,Harsh Cornering,"38.511915°, -122.776801°","US-101, Windsor, CA 95492, USA",N/A,17.4
+James,02/21/2025 02:45:31 PM,Harsh Cornering,"38.081528°, -122.546528°","5400 Hanna Ranch Rd, Novato, CA 94945, USA",N/A,48.7
+James,02/25/2025 09:43:32 AM,Harsh Cornering,"37.879413°, -122.517013°","115 Shoreline Hwy, Mill Valley, CA 94941, USA",N/A,24.0
+James,02/25/2025 10:21:43 AM,Harsh Cornering,"37.902311°, -122.515554°","US 101, Mill Valley, CA 94941, USA",N/A,32.1
+James,02/28/2025 12:44:55 PM,Harsh Cornering,"38.064661°, -122.534859°","5821 Nave Dr, Novato, CA 94949, USA",N/A,28.3
+James,03/03/2025 10:03:57 AM,Harsh Cornering,"38.065313°, -122.538072°","32 Hector Ln, Novato, CA 94949, USA",N/A,28.2
+James,03/03/2025 11:34:07 AM,Harsh Cornering,"37.902625°, -122.515547°","US 101, Mill Valley, CA 94941, USA",N/A,39.5
+James,03/03/2025 11:37:03 AM,Harsh Cornering,"37.944669°, -122.516679°","46 Via La Cumbre, Greenbrae, CA 94904, USA",N/A,45.4
+James,03/04/2025 11:13:46 AM,Harsh Cornering,"37.944681°, -122.516580°","46 Via La Cumbre, Greenbrae, CA 94904, USA",N/A,44.7
+James,03/05/2025 10:09:25 AM,Harsh Cornering,"38.271317°, -122.671050°","200 Stony Point Rd, Petaluma, CA 94952, USA",N/A,34.7
+James,03/05/2025 10:09:37 AM,Harsh Cornering,"38.271770°, -122.669884°","5002 Petaluma Blvd N, Petaluma, CA 94952, USA",N/A,37.4
+James,03/05/2025 03:58:07 PM,Harsh Braking,"38.357871°, -122.713059°","5401 Commerce Blvd, Rohnert Park, CA 94928, USA",N/A,0.0
+James,03/07/2025 09:19:21 AM,Harsh Cornering,"38.065424°, -122.538356°","10 Hector Ln, Novato, CA 94949, USA",N/A,29.3
+James,03/07/2025 01:35:49 PM,Harsh Cornering,"37.901914°, -122.515292°","US 101, Mill Valley, CA 94941, USA",N/A,23.4
+James,03/07/2025 03:34:39 PM,Harsh Cornering,"38.081580°, -122.546723°","5400 Hanna Ranch Rd, Novato, CA 94945, USA",N/A,47.9
+James,03/07/2025 03:34:46 PM,Harsh Cornering,"38.082313°, -122.548182°","US-101, Novato, CA 94947, USA",N/A,51.2
+James,03/10/2025 02:23:16 PM,Speeding Over,"38.182618°, -122.600478°","US 101, Petaluma, CA 94952, USA",N/A,81.1
+James,03/10/2025 03:40:32 PM,Harsh Cornering,"38.431269°, -122.714894°","CA-12, Santa Rosa, CA 95407, USA",N/A,29.7
+James,03/12/2025 03:24:20 PM,Harsh Cornering,"38.272462°, -122.670175°","5101 Montero Way, Petaluma, CA 94954, USA",N/A,35.7
+James,03/12/2025 04:00:42 PM,Harsh Cornering,"38.347780°, -122.712769°","US 101, Cotati, CA 94931, USA",N/A,20.0
+James,03/13/2025 07:37:18 AM,Harsh Cornering,"38.512059°, -122.777025°","US-101, Windsor, CA 95492, USA",N/A,27.7
+James,03/13/2025 07:44:43 AM,Harsh Braking,"38.432273°, -122.715959°","424 Sebastopol Ave, Santa Rosa, CA 95401, USA",N/A,20.5
+James,03/13/2025 12:08:41 PM,Harsh Cornering,"37.901932°, -122.515480°","US-101, Mill Valley, CA 94941, USA",N/A,36.8
+James,03/13/2025 12:08:46 PM,Harsh Cornering,"37.902683°, -122.515560°","US 101, Mill Valley, CA 94941, USA",N/A,44.3
+James,03/13/2025 12:11:44 PM,Harsh Cornering,"37.944753°, -122.516373°","48 Via La Cumbre, Greenbrae, CA 94904, USA",N/A,44.2
+Joe,01/02/2025 11:57:52 AM,Harsh Cornering,"38.433391°, -122.892040°","10521 Graton Rd, Sebastopol, CA 95472, USA",N/A,43.1
+Joe,01/02/2025 04:50:15 PM,Harsh Cornering,"38.347823°, -122.712744°","US 101, Cotati, CA 94931, USA",N/A,3.4
+Joe,01/03/2025 02:08:58 PM,Harsh Cornering,"38.431254°, -122.716676°","CA-12, Santa Rosa, CA 95407, USA",N/A,43.6
+Joe,01/03/2025 03:21:18 PM,"DTC Alerts (code[P0400]:EGR ""A"" Flow)","38.462928°, -122.668200°","380 Breeden St, Santa Rosa, CA 95409, USA",N/A,0.0
+Joe,01/05/2025 03:51:46 PM,Harsh Cornering,"38.348259°, -122.712819°","US 101, Rohnert Park, CA 94928, USA",N/A,40.3
+Joe,01/06/2025 09:04:25 AM,Engine Idle,"38.476933°, -122.751273°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/06/2025 01:45:08 PM,Harsh Cornering,"38.380520°, -122.860475°","1691 Burnside Rd, Sebastopol, CA 95472, USA",N/A,27.2
+Joe,01/07/2025 12:20:24 PM,Harsh Cornering,"38.406474°, -122.550788°","820 Warm Springs Rd, Kenwood, CA 95452, USA",N/A,34.1
+Joe,01/07/2025 02:48:54 PM,Engine Idle,"38.380375°, -122.713881°","4034 Santa Rosa Ave, Santa Rosa, CA 95407, USA",N/A,0.0
+Joe,01/07/2025 04:54:09 PM,"DTC Alerts (code[P0400]:EGR ""A"" Flow)","38.474718°, -122.730819°","541 Renaissance Way, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/08/2025 09:20:53 AM,Engine Idle,"38.476965°, -122.751295°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/08/2025 02:17:50 PM,Harsh Cornering,"38.388832°, -122.888332°","10815 Bodega Hwy, Sebastopol, CA 95472, USA",N/A,42.1
+Joe,01/09/2025 07:04:02 AM,After Hours,"38.476830°, -122.751243°","3539 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,5.3
+Joe,01/09/2025 07:35:35 AM,After Hours,"38.342671°, -122.715503°","472 Primero Ct, Cotati, CA 94931, USA",N/A,5.6
+Joe,01/09/2025 07:44:16 AM,Harsh Cornering,"38.474676°, -122.730062°","536 Flamingo Rd, Santa Rosa, CA 95403, USA",N/A,28.2
+Joe,01/09/2025 09:28:16 AM,Engine Idle,"38.476953°, -122.751262°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/09/2025 04:42:37 PM,Harsh Cornering,"38.392464°, -122.836446°","692 Pleasant Hill Rd, Sebastopol, CA 95472, USA",N/A,34.6
+Joe,01/10/2025 09:05:25 AM,Engine Idle,"38.476967°, -122.751301°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/10/2025 10:13:27 AM,Harsh Cornering,"38.348260°, -122.712832°","US 101, Rohnert Park, CA 94928, USA",N/A,38.6
+Joe,01/10/2025 11:47:37 AM,Harsh Cornering,"38.471590°, -122.619119°","999 Wildwood Trl, Santa Rosa, CA 95409, USA",N/A,23.7
+Joe,01/10/2025 12:43:46 PM,Harsh Cornering,"38.487877°, -122.604238°","1525 Los Alamos Rd, Santa Rosa, CA 95409, USA",N/A,28.4
+Joe,01/10/2025 12:46:52 PM,Harsh Cornering,"38.475432°, -122.616187°","1225 Los Alamos Rd, Santa Rosa, CA 95409, USA",N/A,30.8
+Joe,01/10/2025 12:47:41 PM,Harsh Cornering,"38.471102°, -122.620092°","999 Wildwood Trl, Santa Rosa, CA 95409, USA",N/A,30.6
+Joe,01/10/2025 12:48:34 PM,Harsh Cornering,"38.466574°, -122.624904°","750 Los Alamos Rd, Santa Rosa, CA 95409, USA",N/A,29.8
+Joe,01/13/2025 08:32:06 AM,Engine Idle,"38.476926°, -122.751306°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/13/2025 08:42:59 AM,Engine Idle,"38.476969°, -122.751285°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/13/2025 04:18:47 PM,Harsh Cornering,"38.445262°, -122.982204°","7001 Bohemian Hwy, Occidental, CA 95465, USA",N/A,43.2
+Joe,01/13/2025 06:17:27 PM,After Hours,"38.487391°, -123.015684°","17910 Hwy 116 N, Guerneville, CA 95446, USA",N/A,22.9
+Joe,01/14/2025 08:56:08 AM,Engine Idle,"38.476954°, -122.751291°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/14/2025 12:18:00 PM,Harsh Cornering,"38.408571°, -122.551807°","625 Warm Springs Rd, Kenwood, CA 95452, USA",N/A,37.4
+Joe,01/14/2025 12:18:18 PM,Harsh Cornering,"38.406497°, -122.550758°","820 Warm Springs Rd, Kenwood, CA 95452, USA",N/A,34.4
+Joe,01/14/2025 01:10:28 PM,Engine Idle,"38.361322°, -122.617605°","5130 Burnham Ranch Rd, Santa Rosa, CA 95404, USA",N/A,0.0
+Joe,01/14/2025 09:14:24 PM,After Hours,"38.476838°, -122.751290°","3539 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,5.0
+Joe,01/14/2025 09:38:45 PM,Harsh Cornering,"38.348233°, -122.712839°","US 101, Rohnert Park, CA 94928, USA",N/A,39.3
+Joe,01/14/2025 09:41:37 PM,After Hours,"38.342673°, -122.715392°","466 Primero Ct, Cotati, CA 94931, USA",N/A,3.5
+Joe,01/14/2025 09:46:52 PM,Harsh Cornering,"38.474669°, -122.730088°","537 Renaissance Way, Santa Rosa, CA 95403, USA",N/A,30.2
+Joe,01/15/2025 08:56:14 AM,Engine Idle,"38.476960°, -122.751305°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/15/2025 09:26:54 AM,Harsh Cornering,"38.383060°, -122.816391°","7493 Elphick Rd, Sebastopol, CA 95472, USA",N/A,34.2
+Joe,01/15/2025 12:45:03 PM,Harsh Cornering,"38.439240°, -122.849546°","3620 Frei Rd, Sebastopol, CA 95472, USA",N/A,36.6
+Joe,01/15/2025 01:13:06 PM,Harsh Cornering,"38.392518°, -122.836429°","504 Pleasant Hill Rd, Sebastopol, CA 95472, USA",N/A,27.4
+Joe,01/16/2025 09:05:20 AM,Engine Idle,"38.476946°, -122.751298°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/16/2025 12:32:54 PM,Harsh Cornering,"38.370252°, -123.073697°","4694 Hwy 1, Bodega Bay, CA 94923, USA",N/A,29.9
+Joe,01/16/2025 01:59:12 PM,Harsh Cornering,"38.369653°, -123.072994°","4694 Hwy 1, Bodega Bay, CA 94923, USA",N/A,31.3
+Joe,01/16/2025 02:03:00 PM,Harsh Cornering,"38.339368°, -123.046822°","1845 Hwy 1, Bodega Bay, CA 94923, USA",N/A,40.2
+Joe,01/16/2025 02:03:38 PM,Harsh Cornering,"38.335428°, -123.046432°","1320 Bay View St, Bodega Bay, CA 94923, USA",N/A,32.5
+Joe,01/17/2025 09:11:00 AM,Engine Idle,"38.476962°, -122.751246°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/17/2025 01:51:00 PM,Harsh Cornering,"38.388782°, -122.888400°","10815 Bodega Hwy, Sebastopol, CA 95472, USA",N/A,40.0
+Joe,01/17/2025 07:19:33 PM,After Hours,"38.444264°, -122.751134°","2100 W College Ave, Santa Rosa, CA 95401, USA",N/A,32.7
+Joe,01/17/2025 07:21:57 PM,Engine Idle,"38.435076°, -122.744150°","358 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Joe,01/21/2025 09:14:04 AM,Engine Idle,"38.476954°, -122.751319°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/21/2025 11:34:20 AM,"DTC Alerts (code[P0400]:EGR ""A"" Flow)","38.442605°, -122.605672°","6520 Oakmont Dr, Santa Rosa, CA 95409, USA",N/A,0.0
+Joe,01/21/2025 11:59:22 AM,Engine Idle,"38.478137°, -122.656309°","5165 Parkhurst Dr, Santa Rosa, CA 95409, USA",N/A,0.0
+Joe,01/21/2025 06:55:45 PM,After Hours,"38.476862°, -122.751292°","3539 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,5.5
+Joe,01/21/2025 07:18:20 PM,Harsh Cornering,"38.348265°, -122.712836°","US 101, Rohnert Park, CA 94928, USA",N/A,41.1
+Joe,01/21/2025 07:21:17 PM,After Hours,"38.342681°, -122.715287°","466 Primero Ct, Cotati, CA 94931, USA",N/A,3.5
+Joe,01/22/2025 10:28:03 AM,Harsh Cornering,"38.388850°, -122.888408°","10815 Bodega Hwy, Sebastopol, CA 95472, USA",N/A,38.3
+Joe,01/22/2025 10:34:06 AM,Harsh Cornering,"38.392487°, -122.836491°","692 Pleasant Hill Rd, Sebastopol, CA 95472, USA",N/A,32.7
+Joe,01/23/2025 09:05:15 AM,Engine Idle,"38.476966°, -122.751388°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/24/2025 09:10:12 AM,Engine Idle,"38.476933°, -122.751289°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/25/2025 02:12:17 PM,Engine Idle,"38.476949°, -122.751308°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/25/2025 02:29:56 PM,Harsh Cornering,"38.501042°, -122.910038°","7575 Martinelli Rd, Forestville, CA 95436, USA",N/A,35.6
+Joe,01/25/2025 04:36:50 PM,Engine Idle,"38.476952°, -122.751256°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/26/2025 09:08:20 PM,After Hours,"38.476848°, -122.751273°","3539 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,5.1
+Joe,01/26/2025 09:17:51 PM,Harsh Cornering,"38.342553°, -122.715558°","472 Primero Ct, Cotati, CA 94931, USA",N/A,18.6
+Joe,01/26/2025 09:22:25 PM,Harsh Cornering,"38.341745°, -122.715066°","446 Portal St, Cotati, CA 94931, USA",N/A,34.0
+Joe,01/26/2025 09:24:45 PM,Harsh Cornering,"38.348216°, -122.712858°","US 101, Rohnert Park, CA 94928, USA",N/A,39.4
+Joe,01/26/2025 09:28:36 PM,After Hours,"38.345398°, -122.715230°","6521 Redwood Dr, Rohnert Park, CA 94928, USA",N/A,46.0
+Joe,01/26/2025 09:32:27 PM,Harsh Cornering,"38.475142°, -122.730103°","US-101, Santa Rosa, CA 95403, USA",N/A,35.9
+Joe,01/27/2025 08:56:22 AM,Engine Idle,"38.476928°, -122.751281°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/27/2025 09:14:12 AM,Harsh Cornering,"38.431221°, -122.716686°","CA 12, Santa Rosa, CA 95407, USA",N/A,41.9
+Joe,01/28/2025 09:03:49 AM,Engine Idle,"38.476946°, -122.751285°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/28/2025 10:59:16 AM,"DTC Alerts (code[P0400]:EGR ""A"" Flow)","38.380417°, -122.921245°","1414 Freestone Flat Rd, Sebastopol, CA 95472, USA",N/A,0.0
+Joe,01/28/2025 11:49:14 AM,Harsh Cornering,"38.388863°, -122.888377°","10815 Bodega Hwy, Sebastopol, CA 95472, USA",N/A,39.4
+Joe,01/28/2025 11:51:16 AM,Harsh Cornering,"38.395569°, -122.866544°","9522 Spring Hill School Rd, Sebastopol, CA 95472, USA",N/A,33.2
+Joe,01/29/2025 09:09:52 AM,Engine Idle,"38.476954°, -122.751252°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,01/29/2025 12:04:13 PM,Engine Idle,"38.224539°, -122.668743°","2802 Western Ave, Petaluma, CA 94952, USA",N/A,0.0
+Joe,01/31/2025 06:06:13 PM,After Hours,"38.401611°, -122.916419°","2015 Jonive Rd, Sebastopol, CA 95472, USA",N/A,36.0
+Joe,02/01/2025 09:29:56 AM,"DTC Alerts (code[P0400]:EGR ""A"" Flow)","38.476962°, -122.751277°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/03/2025 08:54:25 AM,Engine Idle,"38.476984°, -122.751210°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/04/2025 08:51:04 AM,Engine Idle,"38.476970°, -122.751284°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/04/2025 09:29:56 AM,"DTC Alerts (code[P0400]:EGR ""A"" Flow)","38.397895°, -122.954225°","2800 Marra Rd, Occidental, CA 95465, USA",N/A,0.0
+Joe,02/05/2025 07:44:15 AM,Engine Idle,"38.476934°, -122.751279°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/05/2025 07:56:30 AM,After Hours,"38.477027°, -122.732281°","US-101, Santa Rosa, CA 95403, USA",N/A,53.8
+Joe,02/05/2025 06:00:10 PM,Harsh Cornering,"38.347536°, -122.712583°","US-101, Cotati, CA 94931, USA",N/A,28.6
+Joe,02/05/2025 06:05:13 PM,After Hours,"38.348144°, -122.711952°","6315 Commerce Blvd, Rohnert Park, CA 94928, USA",N/A,24.6
+Joe,02/06/2025 01:55:10 AM,Engine Idle,"38.476937°, -122.751245°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/06/2025 08:30:31 AM,Engine Idle,"38.476937°, -122.751245°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/07/2025 09:07:58 AM,Engine Idle,"38.476939°, -122.751276°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/07/2025 09:29:56 AM,"DTC Alerts (code[P0400]:EGR ""A"" Flow)","38.334421°, -122.684163°","1324 Maurice Ave, Rohnert Park, CA 94928, USA",N/A,25.0
+Joe,02/07/2025 04:11:38 PM,Harsh Cornering,"38.445218°, -122.982283°","7001 Bohemian Hwy, Occidental, CA 95465, USA",N/A,47.1
+Joe,02/07/2025 04:35:43 PM,Engine Idle,"38.478580°, -122.999389°","19366 Redwood Glade, Guerneville, CA 95446, USA",N/A,0.0
+Joe,02/07/2025 04:51:18 PM,Engine Idle,"38.478522°, -122.999466°","19390 Pine Glade, Guerneville, CA 95446, USA",N/A,0.0
+Joe,02/07/2025 05:00:43 PM,Engine Idle,"38.478547°, -122.999606°","19390 Pine Glade, Guerneville, CA 95446, USA",N/A,0.0
+Joe,02/10/2025 08:58:29 AM,Engine Idle,"38.477021°, -122.751340°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/10/2025 09:29:56 AM,"DTC Alerts (code[P0400]:EGR ""A"" Flow)","38.471319°, -122.670596°","4781 Rinconada Dr, Santa Rosa, CA 95409, USA",N/A,0.0
+Joe,02/10/2025 02:19:28 PM,Harsh Cornering,"38.526291°, -122.790765°","US 101, Windsor, CA 95492, USA",N/A,40.3
+Joe,02/11/2025 08:09:34 AM,Engine Idle,"38.476947°, -122.751272°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/11/2025 06:07:11 PM,Harsh Cornering,"38.347558°, -122.712615°","US-101, Cotati, CA 94931, USA",N/A,28.1
+Joe,02/11/2025 06:12:19 PM,After Hours,"38.348120°, -122.711897°","6315 Commerce Blvd, Rohnert Park, CA 94928, USA",N/A,27.0
+Joe,02/12/2025 09:02:59 AM,Engine Idle,"38.476939°, -122.751289°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/13/2025 08:58:21 AM,Engine Idle,"38.476934°, -122.751263°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/13/2025 02:17:15 PM,Harsh Cornering,"38.255319°, -122.857806°","2401 Tomales Petaluma Rd, Petaluma, CA 94952, USA",N/A,55.4
+Joe,02/14/2025 08:55:22 AM,Engine Idle,"38.476935°, -122.751307°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/16/2025 12:03:16 PM,Engine Idle,"38.476985°, -122.751319°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/16/2025 12:07:05 PM,Harsh Cornering,"38.480047°, -122.734172°","3795 Cleveland Ave, Santa Rosa, CA 95403, USA",N/A,37.1
+Joe,02/16/2025 01:07:35 PM,Harsh Cornering,"38.348242°, -122.712831°","US 101, Rohnert Park, CA 94928, USA",N/A,40.9
+Joe,02/16/2025 09:05:20 PM,After Hours,"38.476825°, -122.751237°","3539 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,5.3
+Joe,02/16/2025 09:17:55 PM,Harsh Cornering,"38.348361°, -122.712831°","US 101, Rohnert Park, CA 94928, USA",N/A,46.5
+Joe,02/16/2025 09:20:21 PM,After Hours,"38.342707°, -122.715446°","466 Primero Ct, Cotati, CA 94931, USA",N/A,4.9
+Joe,02/17/2025 09:07:18 AM,Engine Idle,"38.476931°, -122.751299°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/18/2025 08:45:50 AM,Engine Idle,"38.476963°, -122.751285°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/18/2025 11:10:08 AM,Harsh Cornering,"38.348295°, -122.712843°","US 101, Rohnert Park, CA 94928, USA",N/A,39.7
+Joe,02/19/2025 08:37:27 AM,Engine Idle,"38.476919°, -122.751306°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/19/2025 03:02:06 PM,Engine Idle,"38.433666°, -122.675256°","2555 Brookhaven Dr, Santa Rosa, CA 95405, USA",N/A,0.0
+Joe,02/19/2025 04:42:28 PM,Harsh Cornering,"38.518430°, -122.758717°","5500 Faught Rd, Santa Rosa, CA 95403, USA",N/A,37.6
+Joe,02/20/2025 08:55:02 AM,Engine Idle,"38.476943°, -122.751308°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/20/2025 12:53:22 PM,Engine Idle,"38.258278°, -122.964949°","30 Kona Ln, Dillon Beach, CA 94929, USA",N/A,0.0
+Joe,02/21/2025 09:02:39 AM,Engine Idle,"38.476979°, -122.751313°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/21/2025 09:31:09 AM,Engine Idle,"38.481321°, -122.693223°","3682 Rutherford Way, Santa Rosa, CA 95404, USA",N/A,0.0
+Joe,02/21/2025 07:13:33 PM,After Hours,"38.444328°, -122.751191°","2100 W College Ave, Santa Rosa, CA 95401, USA",N/A,29.6
+Joe,02/23/2025 03:14:58 PM,Engine Idle,"38.434946°, -122.744230°","365 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Joe,02/24/2025 11:08:32 AM,Harsh Cornering,"38.406568°, -122.893221°","11140 Occidental Rd, Sebastopol, CA 95472, USA",N/A,30.1
+Joe,02/24/2025 12:36:05 PM,Harsh Cornering,"38.335150°, -123.048068°","1445 Hwy 1, Bodega Bay, CA 94923, USA",N/A,36.5
+Joe,02/24/2025 12:36:25 PM,Harsh Cornering,"38.335953°, -123.045860°","1320 Bay View St, Bodega Bay, CA 94923, USA",N/A,31.8
+Joe,02/24/2025 12:41:03 PM,Harsh Cornering,"38.370190°, -123.073708°","4694 Hwy 1, Bodega Bay, CA 94923, USA",N/A,29.1
+Joe,02/24/2025 01:59:55 PM,Harsh Cornering,"38.369780°, -123.072988°","4694 Hwy 1, Bodega Bay, CA 94923, USA",N/A,27.0
+Joe,02/24/2025 02:03:38 PM,Harsh Cornering,"38.339515°, -123.046773°","1845 Hwy 1, Bodega Bay, CA 94923, USA",N/A,38.0
+Joe,02/24/2025 02:04:21 PM,Harsh Cornering,"38.335412°, -123.046528°","1320 Bay View St, Bodega Bay, CA 94923, USA",N/A,35.2
+Joe,02/24/2025 03:21:32 PM,Harsh Cornering,"38.368763°, -122.851503°","9087 Barnett Valley Rd, Sebastopol, CA 95472, USA",N/A,19.1
+Joe,02/24/2025 06:53:44 PM,After Hours,"38.339103°, -122.781442°","5190 Blank Rd, Sebastopol, CA 95472, USA",N/A,5.0
+Joe,02/24/2025 07:11:45 PM,After Hours,"38.458202°, -122.769635°","1586 Alegra St, Santa Rosa, CA 95403, USA",N/A,48.0
+Joe,02/25/2025 11:17:30 AM,Harsh Cornering,"38.431136°, -122.716095°","CA-12, Santa Rosa, CA 95407, USA",N/A,48.1
+Joe,02/25/2025 03:24:38 PM,Harsh Cornering,"38.347620°, -122.712604°","US 101, Cotati, CA 94931, USA",N/A,20.7
+Joe,02/25/2025 03:32:46 PM,Harsh Cornering,"38.430586°, -122.713264°","429 Earle St, Santa Rosa, CA 95404, USA",N/A,45.4
+Joe,02/25/2025 06:20:18 PM,After Hours,"38.475303°, -122.673468°","6400 Montecito Blvd, Santa Rosa, CA 95409, USA",N/A,3.5
+Joe,02/26/2025 03:25:38 PM,Harsh Cornering,"38.394130°, -122.888360°","440 Furlong Rd, Sebastopol, CA 95472, USA",N/A,39.8
+Joe,02/27/2025 09:08:36 AM,Engine Idle,"38.476928°, -122.751272°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/27/2025 12:49:00 PM,Harsh Cornering,"38.497067°, -122.757833°","699 River Rd, Fulton, CA 95439, USA",N/A,32.2
+Joe,02/27/2025 10:35:48 PM,After Hours,"38.476903°, -122.751287°","3539 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,3.5
+Joe,02/28/2025 06:17:18 AM,After Hours,"38.476833°, -122.751317°","3539 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,5.3
+Joe,02/28/2025 06:33:40 AM,After Hours,"38.342639°, -122.715446°","472 Primero Ct, Cotati, CA 94931, USA",N/A,3.6
+Joe,02/28/2025 09:04:24 AM,Engine Idle,"38.476933°, -122.751254°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,02/28/2025 10:08:46 AM,Harsh Cornering,"38.476295°, -122.860385°","5969 Vine Hill Rd, Sebastopol, CA 95472, USA",N/A,30.4
+Joe,02/28/2025 04:46:24 PM,Fast Acceleration,"38.397035°, -122.850517°","8680 Bodega Hwy, Sebastopol, CA 95472, USA",N/A,35.3
+Joe,03/01/2025 08:34:04 PM,Engine Idle,"38.476927°, -122.751300°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,03/02/2025 05:56:34 PM,Harsh Cornering,"38.348247°, -122.712861°","US 101, Rohnert Park, CA 94928, USA",N/A,40.2
+Joe,03/02/2025 06:05:56 PM,After Hours,"38.420989°, -122.715485°","3 Milicent Way, Santa Rosa, CA 95407, USA",N/A,72.7
+Joe,03/02/2025 07:22:16 PM,Engine Idle,"38.476968°, -122.751296°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,03/03/2025 08:59:53 AM,Engine Idle,"38.476968°, -122.751296°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,03/03/2025 09:18:39 AM,Harsh Cornering,"38.431118°, -122.716069°","CA-12, Santa Rosa, CA 95407, USA",N/A,48.1
+Joe,03/04/2025 09:02:17 AM,Engine Idle,"38.476949°, -122.751285°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,03/04/2025 11:44:37 AM,Harsh Cornering,"38.348251°, -122.712840°","US 101, Rohnert Park, CA 94928, USA",N/A,40.4
+Joe,03/04/2025 05:30:16 PM,Engine Idle,"38.434988°, -122.744187°","366 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Joe,03/05/2025 09:06:25 AM,Engine Idle,"38.476931°, -122.751277°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,03/05/2025 03:50:33 PM,Harsh Cornering,"38.392469°, -122.836468°","692 Pleasant Hill Rd, Sebastopol, CA 95472, USA",N/A,34.2
+Joe,03/06/2025 09:02:45 AM,Engine Idle,"38.476959°, -122.751266°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,03/07/2025 09:04:38 AM,Engine Idle,"38.476945°, -122.751264°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,03/07/2025 09:22:03 AM,"DTC Alerts (code[P0400]:EGR ""A"" Flow)","38.480464°, -122.758254°","2220 Tapian Way, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,03/07/2025 02:35:07 PM,Harsh Cornering,"38.348336°, -122.712847°","US 101, Rohnert Park, CA 94928, USA",N/A,40.4
+Joe,03/09/2025 06:05:35 PM,After Hours,"38.392851°, -122.741585°","3468 Stony Point Rd, Santa Rosa, CA 95407, USA",N/A,40.6
+Joe,03/10/2025 09:13:20 AM,Engine Idle,"38.476944°, -122.751311°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,03/10/2025 10:13:58 AM,Engine Idle,"38.245440°, -122.612551°","1509 Meadowlark Ln, Petaluma, CA 94954, USA",N/A,0.0
+Joe,03/10/2025 02:59:58 PM,Harsh Cornering,"38.371619°, -122.779689°","5111 Todd Rd, Sebastopol, CA 95472, USA",N/A,34.4
+Joe,03/11/2025 09:00:00 AM,Engine Idle,"38.476943°, -122.751278°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,03/12/2025 08:38:19 AM,Engine Idle,"38.476951°, -122.751311°","3543 Coffey Meadow Pl, Santa Rosa, CA 95403, USA",N/A,0.0
+Joe,03/12/2025 12:48:03 PM,Engine Idle,"38.479125°, -122.666056°","5023 Rick Dr, Santa Rosa, CA 95409, USA",N/A,0.0
+Joe,03/12/2025 07:37:56 PM,After Hours,"38.435098°, -122.744139°","358 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,4.6
+PORTER,01/02/2025 07:42:41 AM,Engine Idle,"38.229126°, -122.624489°","1033 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,01/02/2025 07:55:26 AM,After Hours,"38.221344°, -122.607109°","US-101, Petaluma, CA 94952, USA",N/A,6.5
+PORTER,01/03/2025 07:27:22 AM,Engine Idle,"38.229000°, -122.624718°","1005 Warren Dr, Petaluma, CA 94952, USA",N/A,0.7
+PORTER,01/03/2025 07:51:41 AM,After Hours,"38.253673°, -122.623215°","101 Penrod Dr, Petaluma, CA 94954, USA",N/A,10.2
+PORTER,01/06/2025 08:11:55 AM,Engine Idle,"38.229095°, -122.624603°","1001 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,01/06/2025 11:39:28 AM,Engine Idle,"38.342525°, -122.715416°","466 Primero Ct, Cotati, CA 94931, USA",N/A,0.0
+PORTER,01/07/2025 03:50:32 PM,Device Disconnected,"38.229126°, -122.624367°","1033 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,01/08/2025 07:49:56 AM,After Hours,"38.227097°, -122.622658°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,13.4
+PORTER,01/09/2025 07:59:18 AM,After Hours,"38.228100°, -122.622230°","224 McNear Cir, Petaluma, CA 94952, USA",N/A,13.1
+PORTER,01/10/2025 07:51:01 AM,After Hours,"38.248886°, -122.626304°","101 N McDowell Blvd, Petaluma, CA 94954, USA",N/A,27.9
+PORTER,01/13/2025 08:02:06 AM,After Hours,"38.227123°, -122.622665°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,11.7
+PORTER,01/15/2025 07:59:20 AM,After Hours,"38.227097°, -122.622673°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,13.1
+PORTER,01/21/2025 07:46:17 AM,After Hours,"38.227093°, -122.622642°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,12.9
+PORTER,01/21/2025 06:35:55 PM,After Hours,"38.233723°, -122.604484°","2610 Lakeville Hwy, Petaluma, CA 94954, USA",N/A,10.9
+PORTER,01/23/2025 06:58:51 PM,After Hours,"38.331619°, -122.715111°","8501 Hwy 116 S, Cotati, CA 94931, USA",N/A,16.3
+PORTER,01/24/2025 07:27:12 AM,Engine Idle,"38.229111°, -122.624763°","1001 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,01/24/2025 07:49:46 AM,After Hours,"38.229130°, -122.624557°","1001 Warren Dr, Petaluma, CA 94952, USA",N/A,5.3
+PORTER,01/25/2025 11:54:13 AM,Harsh Cornering,"38.340595°, -122.713890°","410 Aaron St, Cotati, CA 94931, USA",N/A,26.5
+PORTER,01/25/2025 12:14:53 PM,Harsh Cornering,"38.348144°, -122.712799°","US 101, Rohnert Park, CA 94928, USA",N/A,39.1
+PORTER,01/28/2025 07:48:23 AM,After Hours,"38.227116°, -122.622658°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,15.3
+PORTER,01/29/2025 08:49:54 AM,Engine Idle,"38.229019°, -122.624634°","1001 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,01/30/2025 08:12:12 AM,Engine Idle,"38.229092°, -122.624634°","1001 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,01/31/2025 07:37:14 AM,Engine Idle,"38.229183°, -122.624595°","1001 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,01/31/2025 07:47:40 AM,After Hours,"38.227104°, -122.622673°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,12.8
+PORTER,02/01/2025 07:53:10 PM,After Hours,"38.348263°, -122.716583°","6298 Redwood Dr, Rohnert Park, CA 94928, USA",N/A,8.4
+PORTER,02/04/2025 07:35:42 AM,Engine Idle,"38.229214°, -122.624832°","1001 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,02/04/2025 07:47:16 AM,After Hours,"38.227047°, -122.622604°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,15.4
+PORTER,02/05/2025 07:33:19 AM,Engine Idle,"38.229198°, -122.624519°","1033 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,02/05/2025 07:43:54 AM,After Hours,"38.227093°, -122.622635°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,13.2
+PORTER,02/06/2025 07:58:14 AM,Engine Idle,"38.229042°, -122.624649°","1001 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,02/06/2025 08:19:17 PM,After Hours,"38.260185°, -122.634247°","1516 Smokey Mountains Dr, Petaluma, CA 94954, USA",N/A,7.2
+PORTER,02/07/2025 07:41:27 AM,After Hours,"38.227093°, -122.622658°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,11.8
+PORTER,02/10/2025 09:38:10 AM,Engine Idle,"38.229057°, -122.624580°","1001 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,02/10/2025 07:13:15 PM,After Hours,"38.445198°, -122.687851°","2308 Magowan Dr, Santa Rosa, CA 95405, USA",N/A,12.5
+PORTER,02/10/2025 08:13:36 PM,After Hours,"38.245544°, -122.629150°","958 Martin Cir, Petaluma, CA 94952, USA",N/A,9.9
+PORTER,02/11/2025 07:47:49 AM,After Hours,"38.228477°, -122.622886°","200 McNear Cir, Petaluma, CA 94952, USA",N/A,13.3
+PORTER,02/11/2025 06:27:40 PM,After Hours,"38.348240°, -122.716636°","6400 Redwood Dr, Rohnert Park, CA 94928, USA",N/A,16.3
+PORTER,02/11/2025 07:17:58 PM,After Hours,"38.472584°, -122.738792°","1201 Piner Rd, Santa Rosa, CA 95403, USA",N/A,5.9
+PORTER,02/12/2025 07:56:59 AM,After Hours,"38.227154°, -122.622703°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,10.6
+PORTER,02/12/2025 06:11:39 PM,After Hours,"38.321400°, -122.714973°","605 W Sierra Ave, Cotati, CA 94931, USA",N/A,10.3
+PORTER,02/13/2025 07:37:04 PM,After Hours,"38.262707°, -122.488884°","274 Avenida Barbera, Sonoma, CA 95476, USA",N/A,8.4
+PORTER,02/14/2025 07:34:56 AM,After Hours,"38.227089°, -122.622658°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,13.4
+PORTER,02/14/2025 06:05:34 PM,After Hours,"38.331295°, -122.713470°","US 101, Cotati, CA 94931, USA",N/A,16.0
+PORTER,02/17/2025 06:03:53 PM,Harsh Braking,"38.220543°, -122.607979°","US 101, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,02/18/2025 07:47:37 AM,After Hours,"38.227074°, -122.622650°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,11.8
+PORTER,02/19/2025 07:44:03 AM,After Hours,"38.249950°, -122.625297°","1420 E Washington St, Petaluma, CA 94954, USA",N/A,10.0
+PORTER,02/21/2025 06:59:18 AM,After Hours,"38.227127°, -122.622658°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,11.5
+PORTER,02/21/2025 07:59:19 AM,After Hours,"38.248836°, -122.626312°","101 N McDowell Blvd, Petaluma, CA 94954, USA",N/A,27.9
+PORTER,02/21/2025 12:32:57 PM,Harsh Cornering,"38.470665°, -122.729271°","3135 Cleveland Ave, Santa Rosa, CA 95403, USA",N/A,34.4
+PORTER,02/21/2025 06:24:14 PM,After Hours,"38.331550°, -122.715042°","8505 Hwy 116 S, Cotati, CA 94931, USA",N/A,18.0
+PORTER,03/03/2025 07:25:27 AM,Engine Idle,"38.228931°, -122.624359°","1041 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,03/03/2025 07:41:15 AM,After Hours,"38.228893°, -122.622978°","1077 Warren Dr, Petaluma, CA 94952, USA",N/A,11.8
+PORTER,03/04/2025 07:44:46 AM,After Hours,"38.227100°, -122.622642°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,13.6
+PORTER,03/05/2025 07:44:39 AM,After Hours,"38.229061°, -122.624054°","1061 Warren Dr, Petaluma, CA 94952, USA",N/A,9.6
+PORTER,03/06/2025 07:10:57 PM,After Hours,"38.348358°, -122.716850°","301 Rohnert Park Expy, Rohnert Park, CA 94928, USA",N/A,16.4
+PORTER,03/07/2025 07:43:50 AM,After Hours,"38.227123°, -122.622673°","247 McNear Cir, Petaluma, CA 94952, USA",N/A,11.1
+PORTER,03/10/2025 08:22:52 AM,Engine Idle,"38.229046°, -122.624649°","1001 Warren Dr, Petaluma, CA 94952, USA",N/A,0.0
+PORTER,03/11/2025 07:47:25 AM,After Hours,"38.229069°, -122.624557°","1001 Warren Dr, Petaluma, CA 94952, USA",N/A,6.6
+PORTER,03/11/2025 10:18:39 AM,Device Disconnected,"38.251453°, -122.636787°","US 101, Petaluma, CA 94954, USA",N/A,77.1
+PORTER,03/11/2025 06:44:45 PM,After Hours,"38.333809°, -122.714691°","7921 Redwood Dr, Cotati, CA 94931, USA",N/A,13.1
+PORTER,03/12/2025 10:19:15 AM,After Hours,"38.227844°, -122.625412°","1025 Addison Cir, Petaluma, CA 94952, USA",N/A,13.7
+PORTER,03/13/2025 07:02:34 PM,After Hours,"38.284298°, -122.686378°","1433 Stony Point Rd, Petaluma, CA 94952, USA",N/A,43.2
+Ricardo (NEW),01/03/2025 10:47:13 AM,Engine Idle,"38.267929°, -122.640381°","829 Chardonnay Cir, Petaluma, CA 94954, USA",N/A,0.0
+Ricardo (NEW),01/03/2025 01:44:07 PM,Engine Idle,"38.232609°, -122.643638°","31 Howard St, Petaluma, CA 94952, USA",N/A,0.0
+Ricardo (NEW),01/06/2025 10:10:13 AM,Engine Idle,"38.271454°, -122.642937°","1816 Sandstone Dr, Petaluma, CA 94954, USA",N/A,0.0
+Ricardo (NEW),01/06/2025 02:11:26 PM,Engine Idle,"38.348499°, -122.723701°","561 Rohnert Park Expy, Rohnert Park, CA 94928, USA",N/A,0.0
+Ricardo (NEW),01/09/2025 09:55:34 AM,Harsh Cornering,"38.432178°, -122.716186°","CA 12, Santa Rosa, CA 95407, USA",N/A,34.4
+Ricardo (NEW),01/09/2025 11:39:09 AM,Harsh Cornering,"38.348278°, -122.712814°","US 101, Rohnert Park, CA 94928, USA",N/A,36.2
+Ricardo (NEW),01/09/2025 03:18:15 PM,Engine Idle,"38.319576°, -122.302795°","1472 Sumner Ave, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),01/10/2025 10:50:51 AM,Engine Idle,"38.342625°, -122.715408°","466 Primero Ct, Cotati, CA 94931, USA",N/A,0.0
+Ricardo (NEW),01/10/2025 05:23:31 PM,Harsh Braking,"38.348381°, -122.706329°","6301 State Farm Dr, Rohnert Park, CA 94928, USA",N/A,0.0
+Ricardo (NEW),01/13/2025 06:32:52 PM,Engine Idle,"38.344177°, -122.718506°","92 Ronda St, Rohnert Park, CA 94928, USA",N/A,0.0
+Ricardo (NEW),01/15/2025 08:34:51 AM,Engine Idle,"38.342674°, -122.715378°","466 Primero Ct, Cotati, CA 94931, USA",N/A,0.0
+Ricardo (NEW),01/15/2025 11:17:27 AM,Engine Idle,"38.465389°, -122.655968°","1205 Hidden Creek Pl, Santa Rosa, CA 95409, USA",N/A,0.0
+Ricardo (NEW),01/15/2025 11:35:26 AM,Engine Idle,"38.464889°, -122.655838°","5150 Hwy 12, Santa Rosa, CA 95409, USA",N/A,0.0
+Ricardo (NEW),01/15/2025 12:15:41 PM,Engine Idle,"38.464954°, -122.639030°","5780 Marsh Hawk Dr, Santa Rosa, CA 95409, USA",N/A,0.0
+Ricardo (NEW),01/16/2025 08:20:20 AM,Engine Idle,"38.342705°, -122.715385°","466 Primero Ct, Cotati, CA 94931, USA",N/A,0.0
+Ricardo (NEW),01/16/2025 01:24:36 PM,Engine Idle,"38.313263°, -122.310905°","1152 La Pintura Ln, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),01/16/2025 02:10:48 PM,Engine Idle,"38.315113°, -122.301277°","1528 Pueblo Ave, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),01/17/2025 12:39:29 PM,Engine Idle,"38.329044°, -122.522552°","2343 Sobre Vista Rd, Sonoma, CA 95476, USA",N/A,0.0
+Ricardo (NEW),01/17/2025 01:06:42 PM,Engine Idle,"38.304535°, -122.494011°","844 Craig Ave, Sonoma, CA 95476, USA",N/A,0.0
+Ricardo (NEW),01/17/2025 03:44:31 PM,Harsh Braking,"38.283695°, -122.715576°","725 Pepper Rd, Petaluma, CA 94952, USA",N/A,8.3
+Ricardo (NEW),01/22/2025 09:12:03 AM,Engine Idle,"38.433315°, -122.683250°","1501 Neotomas Ave, Santa Rosa, CA 95405, USA",N/A,0.0
+Ricardo (NEW),01/22/2025 02:44:09 PM,Engine Idle,"38.426060°, -122.762733°","945 Doubles Dr, Santa Rosa, CA 95407, USA",N/A,0.0
+Ricardo (NEW),01/22/2025 04:48:47 PM,Engine Idle,"38.344200°, -122.718567°","92 Ronda St, Rohnert Park, CA 94928, USA",N/A,0.0
+Ricardo (NEW),01/24/2025 03:54:45 PM,Engine Idle,"38.235004°, -122.644859°","212 Keokuk St, Petaluma, CA 94952, USA",N/A,0.0
+Ricardo (NEW),02/03/2025 02:28:01 PM,Engine Idle,"38.222969°, -122.638084°","1112 G St, Petaluma, CA 94952, USA",N/A,0.0
+Ricardo (NEW),02/04/2025 12:33:29 PM,Engine Idle,"38.315273°, -122.329162°","2603 Hidden Valley Ln, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/06/2025 09:29:17 AM,Engine Idle,"38.320980°, -122.297905°","3214 Main St, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/06/2025 11:28:31 AM,Engine Idle,"38.300857°, -122.238296°","1142 3rd Ave, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/06/2025 06:05:32 PM,After Hours,"38.277874°, -122.324943°","4135 Old Sonoma Rd, Napa, CA 94559, USA",N/A,45.6
+Ricardo (NEW),02/06/2025 06:24:18 PM,After Hours,"38.260548°, -122.483574°","221 S Temelec Cir, Sonoma, CA 95476, USA",N/A,14.0
+Ricardo (NEW),02/06/2025 06:42:54 PM,After Hours,"38.299820°, -122.670669°","100 Adobe Rd, Penngrove, CA 94951, USA",N/A,36.4
+Ricardo (NEW),02/07/2025 11:07:24 AM,Engine Idle,"38.226406°, -122.638733°","15 Batchelor Ter, Petaluma, CA 94952, USA",N/A,0.0
+Ricardo (NEW),02/07/2025 01:59:52 PM,Engine Idle,"38.231506°, -122.636596°","222 4th St, Petaluma, CA 94952, USA",N/A,0.0
+Ricardo (NEW),02/10/2025 10:22:43 AM,Engine Idle,"38.273392°, -122.633247°","906 Mustang Ct, Petaluma, CA 94954, USA",N/A,0.0
+Ricardo (NEW),02/10/2025 10:52:28 AM,Engine Idle,"38.268391°, -122.639282°","838 Chardonnay Cir, Petaluma, CA 94954, USA",N/A,0.0
+Ricardo (NEW),02/10/2025 11:58:01 AM,Engine Idle,"38.231445°, -122.636215°","301 4th St, Petaluma, CA 94952, USA",N/A,0.0
+Ricardo (NEW),02/10/2025 12:24:31 PM,Engine Idle,"38.227863°, -122.635132°","614 G St, Petaluma, CA 94952, USA",N/A,0.0
+Ricardo (NEW),02/10/2025 01:17:13 PM,Engine Idle,"38.243179°, -122.629486°","209 Johnson Dr, Petaluma, CA 94952, USA",N/A,0.0
+Ricardo (NEW),02/11/2025 07:42:34 AM,After Hours,"38.343609°, -122.718559°","80 Ronda St, Rohnert Park, CA 94928, USA",N/A,11.8
+Ricardo (NEW),02/11/2025 09:05:09 AM,Engine Idle,"38.315342°, -122.287475°","748 Joseph Ct, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/11/2025 09:22:26 AM,Engine Idle,"38.321541°, -122.305832°","1715 Trancas St, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/11/2025 09:54:02 AM,Engine Idle,"38.329166°, -122.327316°","4149 Linda Vista Ave, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/11/2025 12:33:01 PM,Engine Idle,"38.320068°, -122.310470°","3383 Solano Ave, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/12/2025 12:54:22 PM,Engine Idle,"38.218944°, -122.630829°","5 Lone Oak Ct, Petaluma, CA 94952, USA",N/A,0.0
+Ricardo (NEW),02/12/2025 06:14:07 PM,After Hours,"38.249164°, -122.625946°","94 N McDowell Blvd, Petaluma, CA 94954, USA",N/A,14.3
+Ricardo (NEW),02/13/2025 10:42:33 AM,Engine Idle,"38.339241°, -122.304169°","1050 El Centro Ave, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/13/2025 01:56:20 PM,Engine Idle,"38.315334°, -122.287239°","735 Joseph Ct, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/14/2025 03:33:05 PM,Engine Idle,"38.328602°, -122.682152°","1401 Magnolia Ave, Rohnert Park, CA 94928, USA",N/A,1.3
+Ricardo (NEW),02/17/2025 10:32:55 AM,Harsh Cornering,"38.282753°, -122.300789°","766 S Freeway Dr, Napa, CA 94558, USA",N/A,30.4
+Ricardo (NEW),02/17/2025 10:32:59 AM,Harsh Cornering,"38.282188°, -122.300567°","CA 29, Napa, CA 94558, USA",N/A,35.4
+Ricardo (NEW),02/17/2025 12:26:58 PM,Engine Idle,"38.326946°, -122.488922°","16885 Hwy 12, Sonoma, CA 95476, USA",N/A,0.0
+Ricardo (NEW),02/17/2025 01:38:59 PM,Harsh Cornering,"38.272465°, -122.670189°","5101 Montero Way, Petaluma, CA 94954, USA",N/A,37.4
+Ricardo (NEW),02/18/2025 12:59:09 PM,Engine Idle,"38.327419°, -122.312652°","1912 Sierra Ave, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/19/2025 10:18:03 AM,Engine Idle,"38.356739°, -122.693756°","5620 Country Club Dr, Rohnert Park, CA 94928, USA",N/A,0.0
+Ricardo (NEW),02/19/2025 10:44:21 AM,Engine Idle,"38.359680°, -122.693939°","5290 Country Club Dr, Rohnert Park, CA 94928, USA",N/A,0.0
+Ricardo (NEW),02/20/2025 11:57:27 AM,Engine Idle,"38.283386°, -122.268051°","1107 Holmes Ave, Napa, CA 94559, USA",N/A,0.0
+Ricardo (NEW),02/20/2025 12:48:14 PM,Engine Idle,"38.297790°, -122.314400°","3134 Laurel St, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/20/2025 01:23:20 PM,Harsh Cornering,"38.355694°, -122.211532°","2990 Monticello Rd, Napa, CA 94558, USA",N/A,26.7
+Ricardo (NEW),02/20/2025 01:51:46 PM,Harsh Cornering,"38.540405°, -122.236893°","5100 Berryessa Knoxville Rd, Napa, CA 94558, USA",N/A,49.5
+Ricardo (NEW),02/20/2025 01:55:43 PM,Harsh Cornering,"38.577740°, -122.249741°","5592 Berryessa Knoxville Rd, Napa, CA 94558, USA",N/A,40.9
+Ricardo (NEW),02/20/2025 03:29:39 PM,Harsh Cornering,"38.611614°, -122.430260°","1760 Howell Mountain Rd, Angwin, CA 94508, USA",N/A,30.5
+Ricardo (NEW),02/20/2025 03:30:08 PM,Harsh Cornering,"38.609997°, -122.431022°","1959 Howell Mountain Rd, Angwin, CA 94508, USA",N/A,23.6
+Ricardo (NEW),02/24/2025 12:32:35 PM,Engine Idle,"38.487251°, -122.722641°","4210 Thomas Lake Harris Dr, Santa Rosa, CA 95403, USA",N/A,0.0
+Ricardo (NEW),02/25/2025 01:15:07 PM,Engine Idle,"38.324661°, -122.287437°","699 Trancas St, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/25/2025 03:50:32 PM,Engine Idle,"38.337665°, -122.306160°","4006 Heather Ln, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/25/2025 06:05:29 PM,After Hours,"38.244362°, -122.466011°","22275 Arnold Dr, Sonoma, CA 95476, USA",N/A,50.1
+Ricardo (NEW),02/25/2025 06:15:08 PM,After Hours,"38.251881°, -122.578804°","2455 Frates Rd, Petaluma, CA 94954, USA",N/A,26.4
+Ricardo (NEW),02/27/2025 07:57:02 AM,Engine Idle,"38.344204°, -122.718475°","92 Ronda St, Rohnert Park, CA 94928, USA",N/A,0.0
+Ricardo (NEW),02/27/2025 08:52:41 AM,After Hours,"38.344845°, -122.714477°","6600 Redwood Dr, Rohnert Park, CA 94928, USA",N/A,17.7
+Ricardo (NEW),02/27/2025 09:31:47 AM,Engine Idle,"38.319599°, -122.297493°","3032 Main St, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),02/27/2025 02:17:25 PM,Engine Idle,"38.283455°, -122.268051°","1102 Holmes Ave, Napa, CA 94559, USA",N/A,0.0
+Ricardo (NEW),02/27/2025 06:09:04 PM,After Hours,"38.247459°, -122.627029°","1305 McNeil Ave, Petaluma, CA 94954, USA",N/A,16.9
+Ricardo (NEW),03/03/2025 11:04:55 AM,Engine Idle,"38.421875°, -122.732521°","1114 Candlestick Ave, Santa Rosa, CA 95407, USA",N/A,0.0
+Ricardo (NEW),03/03/2025 12:39:14 PM,Engine Idle,"38.477360°, -122.655166°","137 Coronado Cir, Santa Rosa, CA 95409, USA",N/A,0.0
+Ricardo (NEW),03/03/2025 04:35:36 PM,Engine Idle,"38.344112°, -122.718574°","88 Ronda St, Rohnert Park, CA 94928, USA",N/A,0.0
+Ricardo (NEW),03/04/2025 10:21:11 AM,Engine Idle,"38.313019°, -122.301483°","1550 Menlo Ave, Napa, CA 94558, USA",N/A,0.0
+Ricardo (NEW),03/04/2025 11:50:41 AM,Engine Idle,"38.288235°, -122.280510°","757 Vista Tulocay Ln, Napa, CA 94559, USA",N/A,0.0
+Ricardo (NEW),03/06/2025 07:38:50 AM,After Hours,"38.320793°, -122.701813°","8682 Old Redwood Hwy, Cotati, CA 94931, USA",N/A,37.8
+Ricardo (NEW),03/06/2025 08:50:17 AM,Engine Idle,"38.283462°, -122.268051°","1102 Holmes Ave, Napa, CA 94559, USA",N/A,0.0
+Ricardo (NEW),03/06/2025 03:41:01 PM,Engine Idle,"38.301296°, -122.491005°","860 Arbor Ave, Sonoma, CA 95476, USA",N/A,0.0
+Ricardo (NEW),03/07/2025 07:42:01 AM,After Hours,"38.328289°, -122.708000°","8005 Old Redwood Hwy, Cotati, CA 94931, USA",N/A,18.5
+Ricardo (NEW),03/07/2025 07:51:26 AM,After Hours,"38.283367°, -122.634842°","1570 Adobe Rd, Petaluma, CA 94954, USA",N/A,55.7
+Ricardo (NEW),03/07/2025 07:56:10 AM,After Hours,"38.251640°, -122.578308°","2455 Frates Rd, Petaluma, CA 94954, USA",N/A,15.5
+Ricardo (NEW),03/10/2025 11:08:14 AM,Engine Idle,"38.453644°, -122.760643°","2304 Fairbanks Dr, Santa Rosa, CA 95403, USA",N/A,0.0
+Ricardo (NEW),03/10/2025 12:57:12 PM,Engine Idle,"38.468700°, -122.712311°","3031 Terra Linda Dr, Santa Rosa, CA 95404, USA",N/A,0.0
+Ricardo (NEW),03/10/2025 05:43:44 PM,Engine Idle,"38.344196°, -122.718506°","92 Ronda St, Rohnert Park, CA 94928, USA",N/A,0.0
+Ricardo (NEW),03/11/2025 12:30:27 PM,Engine Idle,"38.305611°, -122.274200°","12 Spring St, Napa, CA 94559, USA",N/A,0.0
+Ricardo (NEW),03/11/2025 01:48:44 PM,Engine Idle,"38.276028°, -122.454994°","1362 Larkin Dr, Sonoma, CA 95476, USA",N/A,0.0
+Ricardo (NEW),03/12/2025 01:05:40 PM,Engine Idle,"38.478260°, -122.656349°","5165 Parkhurst Dr, Santa Rosa, CA 95409, USA",N/A,0.0
+Ricardo (NEW),03/12/2025 08:46:16 PM,After Hours,"38.342605°, -122.715309°","466 Primero Ct, Cotati, CA 94931, USA",N/A,7.1
+Ricardo (NEW),03/13/2025 06:41:23 PM,Engine Idle,"38.344173°, -122.718460°","90 Ronda St, Rohnert Park, CA 94928, USA",N/A,0.0
+Sean,01/03/2025 02:31:14 PM,Fast Acceleration,"38.336611°, -122.666822°","6698 Petaluma Hill Rd, Santa Rosa, CA 95404, USA",N/A,41.7
+Sean,01/08/2025 09:38:03 AM,Fast Acceleration,"38.348535°, -122.708672°","6290 Commerce Blvd, Rohnert Park, CA 94928, USA",N/A,36.4
+Sean,01/14/2025 11:29:11 AM,Fast Acceleration,"38.235761°, -122.602909°","1316 S McDowell Blvd, Petaluma, CA 94954, USA",N/A,41.1
+Sean,01/22/2025 03:31:41 PM,Harsh Cornering,"38.272290°, -122.669986°","5101 Montero Way, Petaluma, CA 94954, USA",N/A,34.4
+Sean,01/24/2025 08:07:02 AM,Harsh Braking,"38.348405°, -122.716676°","6298 Redwood Dr, Rohnert Park, CA 94928, USA",N/A,0.0
+Sean,01/29/2025 01:29:43 PM,Harsh Braking,"38.270905°, -122.644493°","1701 Burgundy Ct, Petaluma, CA 94954, USA",N/A,11.5
+Sean,01/30/2025 12:12:15 PM,Harsh Cornering,"38.247147°, -122.627924°","US-101, Petaluma, CA 94954, USA",N/A,47.4
+Sean,02/07/2025 09:36:11 AM,Fast Acceleration,"38.283600°, -122.667072°","79 Ely Rd, Petaluma, CA 94954, USA",N/A,35.0
+Sean,02/17/2025 11:01:02 AM,Harsh Cornering,"38.234334°, -122.617201°","1105 Baywood Dr, Petaluma, CA 94954, USA",N/A,31.9
+Sean,02/18/2025 02:03:12 PM,Harsh Cornering,"38.272558°, -122.670407°","5101 Montero Way, Petaluma, CA 94954, USA",N/A,46.1
+Sean,02/19/2025 02:20:36 PM,Harsh Cornering,"38.234172°, -122.617182°","1105 Baywood Dr, Petaluma, CA 94954, USA",N/A,32.1
+Sean,02/21/2025 03:38:29 PM,Harsh Braking,"38.362363°, -122.707514°","180 Golf Course Dr, Rohnert Park, CA 94928, USA",N/A,0.0
+Sean,02/28/2025 01:09:13 PM,Harsh Cornering,"38.234783°, -122.617257°","918 Cedarwood Ln, Petaluma, CA 94954, USA",N/A,29.9
+Sean,03/04/2025 07:57:55 AM,After Hours,"38.367782°, -122.682940°","1368 Graymill Ct, Rohnert Park, CA 94928, USA",N/A,6.1
+Shane,01/02/2025 12:45:35 PM,Engine Idle,"38.610991°, -122.860188°","556 Matheson St, Healdsburg, CA 95448, USA",N/A,0.0
+Shane,01/03/2025 10:30:37 AM,Engine Idle,"38.452793°, -122.709255°","1334 Wright St, Santa Rosa, CA 95404, USA",N/A,0.0
+Shane,01/03/2025 11:56:41 AM,Engine Idle,"38.609593°, -122.866039°","307 Tucker St, Healdsburg, CA 95448, USA",N/A,0.0
+Shane,01/03/2025 01:49:27 PM,Harsh Cornering,"38.511866°, -122.776825°","US 101, Windsor, CA 95492, USA",N/A,35.2
+Shane,01/06/2025 01:35:48 PM,Engine Idle,"38.435084°, -122.744087°","358 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Shane,01/08/2025 01:19:42 PM,Engine Idle,"38.599741°, -122.855304°","13505 Healdsburg Ave, Healdsburg, CA 95448, USA",N/A,0.0
+Shane,01/08/2025 01:49:43 PM,Engine Idle,"38.609586°, -122.865958°","314 Tucker St, Healdsburg, CA 95448, USA",N/A,0.0
+Shane,01/09/2025 09:46:18 AM,Engine Idle,"38.435097°, -122.744085°","358 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Shane,01/09/2025 12:07:29 PM,Engine Idle,"38.434048°, -122.686916°","1440 Townview Ln, Santa Rosa, CA 95405, USA",N/A,0.0
+Shane,01/09/2025 12:59:32 PM,Engine Idle,"38.434990°, -122.672444°","3741 Sacramento Ave, Santa Rosa, CA 95405, USA",N/A,0.0
+Shane,01/10/2025 09:54:49 AM,Engine Idle,"38.435062°, -122.744072°","366 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Shane,01/10/2025 04:38:50 PM,Engine Idle,"38.561560°, -122.741698°","8373 Singing Hills Trl, Santa Rosa, CA 95404, USA",N/A,0.0
+Shane,01/13/2025 02:09:20 PM,Engine Idle,"38.435104°, -122.744092°","358 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Shane,01/14/2025 09:37:17 AM,Engine Idle,"38.435101°, -122.744094°","358 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Shane,01/14/2025 12:06:46 PM,Engine Idle,"38.453882°, -122.714461°","1233 Humboldt St, Santa Rosa, CA 95404, USA",N/A,0.0
+Shane,01/14/2025 12:56:11 PM,Harsh Cornering,"38.420848°, -122.716673°","1840 Corby Ave, Santa Rosa, CA 95407, USA",N/A,21.7
+Shane,01/14/2025 01:53:52 PM,Engine Idle,"38.435077°, -122.744075°","358 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Shane,01/15/2025 09:49:10 AM,Harsh Cornering,"38.348230°, -122.712840°","US 101, Rohnert Park, CA 94928, USA",N/A,41.7
+Shane,01/15/2025 12:47:53 PM,Engine Idle,"38.626479°, -122.875408°","177 Dry Creek Rd, Healdsburg, CA 95448, USA",N/A,0.0
+Shane,01/15/2025 01:30:12 PM,Engine Idle,"38.561527°, -122.817188°","9940 Marcella Ln, Windsor, CA 95492, USA",N/A,0.0
+Shane,01/16/2025 09:33:10 AM,Engine Idle,"38.435120°, -122.744073°","358 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Shane,01/17/2025 09:32:48 AM,Engine Idle,"38.435130°, -122.744103°","358 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Shane,01/20/2025 11:26:54 AM,Harsh Cornering,"38.511814°, -122.776693°","US-101, Windsor, CA 95492, USA",N/A,39.1
+Shane,01/20/2025 11:45:43 AM,Engine Idle,"38.479194°, -122.734737°","3795 Cleveland Ave, Santa Rosa, CA 95403, USA",N/A,0.0
+Shane,01/20/2025 01:21:12 PM,Engine Idle,"38.527287°, -122.787558°","6450 Hembree Ln, Windsor, CA 95492, USA",N/A,0.0
+Shane,01/21/2025 11:04:02 AM,Harsh Cornering,"38.535792°, -122.869058°","6025 Westside Rd, Healdsburg, CA 95448, USA",N/A,37.3
+Shane,01/22/2025 10:00:24 AM,Engine Idle,"38.435109°, -122.744094°","358 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Shane,01/22/2025 11:11:07 AM,Harsh Cornering,"38.412993°, -122.651739°","5050 Bennett Valley Rd, Santa Rosa, CA 95404, USA",N/A,45.3
+Shane,01/22/2025 11:58:31 AM,Harsh Cornering,"38.348385°, -122.712832°","US 101, Rohnert Park, CA 94928, USA",N/A,42.6
+Shane,01/23/2025 09:23:17 AM,Engine Idle,"38.435135°, -122.744199°","358 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Shane,01/23/2025 12:33:55 PM,Harsh Braking,"38.441741°, -122.747293°","65 Stony Point Rd, Santa Rosa, CA 95401, USA",N/A,0.0
+Shane,01/23/2025 03:05:51 PM,Engine Idle,"38.554500°, -122.837166°","9903 Old Camp Ln, Windsor, CA 95492, USA",N/A,0.0
+Shane,01/24/2025 10:27:49 AM,Harsh Cornering,"38.420766°, -122.716459°","1840 Corby Ave, Santa Rosa, CA 95407, USA",N/A,24.0
+Shane,01/24/2025 11:02:07 AM,Engine Idle,"38.422633°, -122.710394°","1581 La Esplanada Pl, Santa Rosa, CA 95404, USA",N/A,0.0
+Shane,01/24/2025 11:56:47 AM,Engine Idle,"38.464279°, -122.637966°","1480 Snowy Egret Dr, Santa Rosa, CA 95409, USA",N/A,0.0
+Shane,01/24/2025 12:29:43 PM,Engine Idle,"38.456656°, -122.627893°","5875 Hwy 12, Santa Rosa, CA 95409, USA",N/A,0.0
+Shane,01/25/2025 11:49:35 AM,Engine Idle,"38.435107°, -122.744097°","358 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Shane,01/27/2025 09:51:35 PM,After Hours,"38.362213°, -122.712046°","5112 Commerce Blvd, Rohnert Park, CA 94928, USA",N/A,15.2
+Shane,02/03/2025 07:57:18 AM,After Hours,"38.380137°, -122.741547°","4090 Stony Point Rd, Santa Rosa, CA 95407, USA",N/A,45.9
+Shane,02/05/2025 07:58:00 AM,Engine Idle,"38.435113°, -122.744085°","358 Brockhurst Dr, Santa Rosa, CA 95401, USA",N/A,0.0
+Shane,02/05/2025 06:08:44 PM,After Hours,"38.372378°, -122.741443°","4350 Stony Point Rd, Santa Rosa, CA 95407, USA",N/A,42.9
+Shane,02/18/2025 01:49:26 PM,Engine Idle,"38.532722°, -122.800117°","700 Mitchell Ln, Windsor, CA 95492, USA",N/A,0.0
+Shane,02/18/2025 03:21:34 PM,Engine Idle,"38.618800°, -122.867201°","734 Fitch St, Healdsburg, CA 95448, USA",N/A,0.0
+Shane,02/25/2025 06:07:05 PM,After Hours,"38.485471°, -122.699743°","3652 Bellagio Ct, Santa Rosa, CA 95404, USA",N/A,5.1
+Shane,02/26/2025 07:33:21 PM,After Hours,"38.369062°, -122.715730°","4619 Redwood Dr, Rohnert Park, CA 94928, USA",N/A,7.9
+Shane,03/04/2025 07:31:01 AM,After Hours,"38.437102°, -122.744447°","1720 Glenbrook Dr, Santa Rosa, CA 95401, USA",N/A,12.3
+Shane,03/07/2025 07:01:37 PM,After Hours,"38.342658°, -122.715345°","466 Primero Ct, Cotati, CA 94931, USA",N/A,5.3

@@ -1,0 +1,243 @@
+
+[MODE: PLAN]
+
+# Updated Technical Specification: Service Analytics Implementation Plan
+
+## Project Overview
+We will build a Python-based analytics system using Streamlit to process ServiceDesk (SD) and GPS tracking data, producing KPI dashboards and integrated performance metrics. The system will focus on technician performance, revenue analysis, operational efficiency, job cancellation analysis, and driving behavior monitoring.
+
+## System Architecture
+
+### Data Processing Pipeline
+1. Data Import Layer
+   - File readers for CSV formats (Type6, Sales Journal, GPS data, Alert Summary)
+   - Data validation and error handling
+   - Configuration-driven import process
+
+2. Data Integration Layer
+   - Address standardization and matching
+   - Technician code mapping (GPS device to SD tech code)
+   - Invoice/job correlation across systems
+   - Text analysis for WorkDescription classification and cancellation reasons
+
+3. Metrics Calculation Engine
+   - KPI computation based on business rules
+   - Performance vs. goal calculations
+   - Trend analysis for time-series data
+   - Cancellation analytics
+   - Driving behavior scoring
+
+4. Visualization Interface
+   - Streamlit dashboard with filterable views
+   - Interactive technician performance table
+   - Goal tracking visualizations
+   - Cancellation reason breakdown
+   - Driving behavior metrics
+   - Optional: Location-based visualizations
+
+## Detailed Component Specifications
+
+### 1. Data Import & Cleaning Module
+- Implement pandas-based CSV readers with appropriate data type handling
+- Create standardized internal data format for each data source
+- Implement data cleaning rules (date standardization, text normalization)
+- Build validation to flag problematic data entries
+- Add Alert Summary data import and processing
+
+### 2. Job Classification System
+- Implement logic for categorizing jobs:
+  - FTC (First Trip Complete): CompletedOnFirstTrip="Yes" OR HowManyVisits=1 AND Status="Completed"
+  - Diagnostic ONLY: Text analysis of WorkDescription for diagnostic indicators
+  - RECALLS: Text analysis of WorkDescription or specific recall flags
+- Create confidence scoring for categorization accuracy
+- Implement cancellation reason extraction and categorization
+
+### 3. Address Matching Engine
+- Implement address standardization functions
+- Create fuzzy matching for GPS addresses to Type6 customer addresses
+- Build location dictionary for known locations (shop, technician homes)
+- Develop geocoding fallback for difficult matches
+
+### 4. Financial Data Integration
+- Match Sales Journal entries to Type6 records by invoice number
+- Calculate revenue metrics (service call, labor, parts, total)
+- Implement zone pricing logic ($129, $149, $60 additional)
+- Derive profitability metrics based on revenue data
+
+### 5. Performance Metrics Calculator
+- Implement all required KPIs:
+  - Revenue metrics (Total Revenue, Service Calls, Labor, Avg $ per call)
+  - Profitability metrics (Total Profit, Avg Profit per call)
+  - Performance indicators (Completed Calls, FTC %, Diagnostic ONLY %, RECALL %)
+- Create goal tracking calculations
+- Implement time-based trend analysis
+- Add cancellation analytics metrics
+- Implement driving behavior scoring system
+
+### 6. Technician Safety & Behavior Module
+- Process Alert Summary data for driving behaviors
+- Calculate safety scores based on alert types and frequencies
+- Implement point system for good/bad driving behaviors
+- Create time-based trend analysis for driving behavior
+
+### 7. Cancellation Analysis System
+- Extract cancellation reasons from WorkDescription
+- Categorize cancellations (customer-initiated, technical issues, scheduling, etc.)
+- Calculate cancellation rates by category and technician
+- Identify patterns in cancellations
+
+### 8. Streamlit Dashboard Interface
+- Build main dashboard layout with filtering controls
+- Create technician performance table with all required metrics
+- Implement visualizations for goal tracking
+- Add cancellation analysis visualizations
+- Include driving behavior metrics and trends
+- Create drill-down capabilities for detailed analysis
+- Add export functionality for reports
+
+## Technical Implementation Details
+
+### File Structure
+```
+service-analytics/
+├── app.py                      # Main Streamlit application
+├── config/
+│   ├── settings.py             # Configuration parameters
+│   ├── mapping.py              # Technician code mappings
+│   ├── cancel_categories.py    # Cancellation reason categories
+│   └── alert_weights.py        # Driving alert scoring weights
+├── data/                       # Raw data files directory
+├── processed/                  # Processed data directory
+├── src/
+│   ├── data_processing/
+│   │   ├── __init__.py
+│   │   ├── importers.py        # CSV import functions
+│   │   ├── cleaner.py          # Data cleaning functions
+│   │   └── integrator.py       # Data merging functions
+│   ├── analysis/
+│   │   ├── __init__.py
+│   │   ├── classifier.py       # Job classification logic
+│   │   ├── text_mining.py      # Work description analysis
+│   │   ├── location.py         # Address matching functions
+│   │   ├── metrics.py          # KPI calculation functions
+│   │   ├── cancellations.py    # Cancellation analysis
+│   │   └── driving.py          # Driving behavior analysis
+│   └── visualization/
+│       ├── __init__.py
+│       ├── dashboard.py        # Dashboard components
+│       ├── tables.py           # Table display functions
+│       ├── charts.py           # Chart generation functions
+│       ├── cancel_viz.py       # Cancellation visualizations
+│       └── driving_viz.py      # Driving behavior visualizations
+├── notebooks/                  # Exploratory notebooks
+└── requirements.txt            # Package dependencies
+```
+
+## IMPLEMENTATION CHECKLIST:
+
+1. Set up development environment
+   - Create project directory structure
+   - Initialize virtual environment
+   - Install required packages
+   - Create requirements.txt file
+
+2. Build data import module
+   - Implement Type6report reader
+   - Implement Sales Journal reader
+   - Implement GPS data readers (multiple formats)
+   - Implement Alert Summary reader
+   - Create validation functions for each data source
+
+3. Develop data cleaning and standardization
+   - Implement date/time standardization
+   - Create address normalization functions
+   - Build technician code mapping
+   - Implement text cleaning for WorkDescription
+
+4. Create job classification system
+   - Implement FTC identification logic
+   - Develop Diagnostic ONLY detection
+   - Build RECALL identification
+   - Create classification validation tools
+
+5. Build cancellation analysis system
+   - Develop text extraction for cancellation reasons
+   - Create cancellation categorization rules
+   - Implement cancellation metrics calculations
+   - Build cancellation pattern detection
+
+6. Implement driving behavior analysis
+   - Process Alert Summary data
+   - Create alert type categorization
+   - Implement scoring system for driving behaviors
+   - Build trend analysis for driving metrics
+
+7. Build address matching engine
+   - Implement address standardization
+   - Create fuzzy matching algorithm
+   - Build location dictionary
+   - Implement geocoding for difficult matches
+
+8. Develop data integration layer
+   - Create job-to-GPS correlation function
+   - Build invoice matching between systems
+   - Implement time window matching
+   - Create integrated data model
+
+9. Implement metrics calculation
+   - Build revenue metrics functions
+   - Implement performance indicator calculations
+   - Create goal tracking functions
+   - Develop trend analysis calculations
+   - Add safety and behavior metrics
+
+10. Build Streamlit dashboard framework
+    - Create main app structure
+    - Implement filtering controls
+    - Build data loading interface
+    - Create caching for performance
+
+11. Develop visualization components
+    - Implement technician performance table
+    - Create goal tracking visualizations
+    - Build trend charts
+    - Add cancellation analysis visualizations
+    - Create driving behavior metrics displays
+    - Implement drill-down capabilities
+
+12. Add data export functionality
+    - Create CSV export
+    - Implement report generation
+    - Build data snapshot capability
+
+13. Implement configuration system
+    - Create settings file
+    - Build environment variable support
+    - Implement technician mapping configuration
+    - Create location dictionary configuration
+    - Add cancellation category configuration
+    - Create alert scoring weights configuration
+
+14. Add documentation
+    - Write README
+    - Document configuration options
+    - Create user guide
+    - Document data requirements
+
+15. Perform testing and validation
+    - Test with sample datasets
+    - Validate metric calculations
+    - Verify visualization accuracy
+    - Test performance with full datasets
+
+16. Conduct usability review
+    - Check dashboard responsiveness
+    - Verify filter functionality
+    - Ensure table sorting works
+    - Validate export functions
+
+17. Deploy initial version
+    - Prepare deployment environment
+    - Set up scheduled data processing
+    - Deploy Streamlit dashboard
+    - Provide access to stakeholders
